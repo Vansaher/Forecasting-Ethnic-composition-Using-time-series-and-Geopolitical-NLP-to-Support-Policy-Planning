@@ -1,0 +1,3545 @@
+iso3_dest,iso3_orig,origin_ethnic_group,dest_ethnic_bucket
+IDN,AFG,,Other
+IDN,AUS,Acehnese,Other
+IDN,AUS,Acholi,Other
+IDN,AUS,Afgan,Other
+IDN,AUS,African American,Other
+IDN,AUS,"African, so described",Other
+IDN,AUS,Afrikaner,Other
+IDN,AUS,Akan,Other
+IDN,AUS,Albanian,Other
+IDN,AUS,Algerian,Other
+IDN,AUS,American,Other
+IDN,AUS,Amhara,Other
+IDN,AUS,Anglo-Burmese,Other
+IDN,AUS,Anglo-Indian,Other
+IDN,AUS,Angolan,Other
+IDN,AUS,"Arab, nec (incl. Baggara, Bedouin, Yemeni)",Other
+IDN,AUS,"Arab, nfd",Other
+IDN,AUS,Argentinean,Other
+IDN,AUS,Armenian,Other
+IDN,AUS,"Asian, so described",Other
+IDN,AUS,Assyrian/ Chaldean,Other
+IDN,AUS,Australian,Other
+IDN,AUS,Australian Aboriginal,Other
+IDN,AUS,Australian South Sea Islander,Other
+IDN,AUS,"Australian peoples, nfd",Other
+IDN,AUS,Austrian,Other
+IDN,AUS,Azeris,Other
+IDN,AUS,Bahraini,Other
+IDN,AUS,Balinese,Other
+IDN,AUS,Bangladeshi,Other
+IDN,AUS,Barbadian,Other
+IDN,AUS,Bari,Other
+IDN,AUS,Basque,Other
+IDN,AUS,Batswana,Other
+IDN,AUS,Belarus,Other
+IDN,AUS,Belgian,Other
+IDN,AUS,Bengali,Other
+IDN,AUS,Berber,Other
+IDN,AUS,Bermudian,Other
+IDN,AUS,Bhutanese,Other
+IDN,AUS,Bolivian,Other
+IDN,AUS,Bosnian,Other
+IDN,AUS,Brazil,Other
+IDN,AUS,Breton,Other
+IDN,AUS,British NEC,Other
+IDN,AUS,"British, nec (incl. Channel Islander, Guernsey Islander, Manx)",Other
+IDN,AUS,"British, nfd",Other
+IDN,AUS,Bruneian,Other
+IDN,AUS,Bulgarian,Other
+IDN,AUS,Burgher,Other
+IDN,AUS,Burmese,Other
+IDN,AUS,Burundian,Other
+IDN,AUS,Cameroonian,Other
+IDN,AUS,Canadian,Other
+IDN,AUS,"Caribbean, nfd",Other
+IDN,AUS,"Carribbean Islander, nec (incl.Bahamian, Haitian, Puerto Rican)",Other
+IDN,AUS,Catalan,Other
+IDN,AUS,"Caucasian, so described",Other
+IDN,AUS,"Central American, nec (incl. Belizean, Costa Rican, Mayan)",Other
+IDN,AUS,"Central American, nfd",Other
+IDN,AUS,"Central Asian, nec (incl. Azerbaijani, Chechen, Tatar)",Other
+IDN,AUS,"Central Asian, nfd",Other
+IDN,AUS,"Central and West Africa, nec (incl. Fang, Kongo, Liberian)",Other
+IDN,AUS,"Central and West Africa, nfd",Other
+IDN,AUS,Chaldean,Other
+IDN,AUS,Channel Islander,Other
+IDN,AUS,Chilean,Other
+IDN,AUS,Chin,Other
+IDN,AUS,Chinese,Other
+IDN,AUS,"Chinese Asian, nec (incl. Hui, Manchu, Yi)",Other
+IDN,AUS,"Chinese Asian, nfd",Other
+IDN,AUS,Colombian,Other
+IDN,AUS,Congo,Other
+IDN,AUS,Cook Islander,Other
+IDN,AUS,Coptic,Other
+IDN,AUS,Costa Rican,Other
+IDN,AUS,"Creole, so described",Other
+IDN,AUS,Croatian,Other
+IDN,AUS,Cubans,Other
+IDN,AUS,Cypriot,Other
+IDN,AUS,Czech,Other
+IDN,AUS,Danish,Other
+IDN,AUS,Darfu/Darfurian,Other
+IDN,AUS,Dinka,Other
+IDN,AUS,Dutch,Other
+IDN,AUS,"Eastern European, nec (incl. Adygei, Khanty, Sorb/Wend)",Other
+IDN,AUS,"Eastern European, nfd",Other
+IDN,AUS,Ecuadorian,Other
+IDN,AUS,Egyptian,Other
+IDN,AUS,Emirati,Other
+IDN,AUS,English,Other
+IDN,AUS,Eritrean,Other
+IDN,AUS,Estonian,Other
+IDN,AUS,Ethiopian,Other
+IDN,AUS,"Eurasian, so described",Other
+IDN,AUS,"European, so described",Other
+IDN,AUS,Fijian,Other
+IDN,AUS,Fijian Indian/Indo-Fijian,Other
+IDN,AUS,Filipino,Other
+IDN,AUS,Finnish,Other
+IDN,AUS,Flemish,Other
+IDN,AUS,French,Other
+IDN,AUS,French Canadian,Other
+IDN,AUS,Frisian,Other
+IDN,AUS,Fulani,Other
+IDN,AUS,Georgian,Other
+IDN,AUS,German,Other
+IDN,AUS,Ghanaian,Other
+IDN,AUS,Gibraltarian,Other
+IDN,AUS,Gio,Other
+IDN,AUS,Greek,Other
+IDN,AUS,Guatemalan,Other
+IDN,AUS,Gujarati,Other
+IDN,AUS,Gurkha,Other
+IDN,AUS,Guyanese,Other
+IDN,AUS,Hawaiian,Other
+IDN,AUS,Hazara,Other
+IDN,AUS,Hispanic,Other
+IDN,AUS,Hmong,Other
+IDN,AUS,Hungarian,Other
+IDN,AUS,Hutu,Other
+IDN,AUS,Icelandic,Other
+IDN,AUS,Igbo,Other
+IDN,AUS,Inadequately described,Other
+IDN,AUS,Indian,Other
+IDN,AUS,Indian Tamil,Other
+IDN,AUS,Indonesian,Other
+IDN,AUS,Iranian,Other
+IDN,AUS,Iraqi,Other
+IDN,AUS,Irish,Other
+IDN,AUS,Italian,Other
+IDN,AUS,Ivoirean,Other
+IDN,AUS,Jamaican,Other
+IDN,AUS,Japanese,Other
+IDN,AUS,Javanese,Jawa
+IDN,AUS,Jewish,Other
+IDN,AUS,Jordanian,Other
+IDN,AUS,Kadazan,Other
+IDN,AUS,Karen,Other
+IDN,AUS,Kashmiri,Other
+IDN,AUS,Kazak,Other
+IDN,AUS,Kenyan,Other
+IDN,AUS,Khmer,Other
+IDN,AUS,Kiribati,Other
+IDN,AUS,Korean,Other
+IDN,AUS,Krahn,Other
+IDN,AUS,Kunama,Other
+IDN,AUS,Kurd,Other
+IDN,AUS,Kuwaiti,Other
+IDN,AUS,Kyrgyz,Other
+IDN,AUS,Lao,Other
+IDN,AUS,Latvian,Other
+IDN,AUS,Lebanese,Other
+IDN,AUS,Liberian,Other
+IDN,AUS,Libyan,Other
+IDN,AUS,Lithuanian,Other
+IDN,AUS,Luxembourg,Other
+IDN,AUS,Macedonian,Other
+IDN,AUS,Madi,Other
+IDN,AUS,Madura,Madura
+IDN,AUS,"Mainland South-East Asian, nec (incl. Arakanese, Karen, Mon)",Other
+IDN,AUS,"Mainland South-East Asian, nfd",Other
+IDN,AUS,Malawian,Other
+IDN,AUS,Malay,"Banjar, Melayu Banjar"
+IDN,AUS,Malayali,Other
+IDN,AUS,Maldivian,Other
+IDN,AUS,Maltese,Other
+IDN,AUS,Mandaean,Other
+IDN,AUS,Mandinka,Other
+IDN,AUS,Manx,Other
+IDN,AUS,Marathi,Other
+IDN,AUS,"Maritime South-East Asian, nec (incl. Balinese, Irian Jayan, Sumatran)",Other
+IDN,AUS,Masai,Other
+IDN,AUS,Mauritian,Other
+IDN,AUS,Maya,Other
+IDN,AUS,"Melanesian and Papuan, nec (incl. Bisorio, Bougainvillian, Huli)",Other
+IDN,AUS,"Melanesian and Papuan, nfd",Other
+IDN,AUS,Mexican,Other
+IDN,AUS,"Micronesian, nec (incl. Marianas Islander, Marshallese, Palauan)",Other
+IDN,AUS,"Micronesian, nfd",Other
+IDN,AUS,Moldovan,Other
+IDN,AUS,Mon,Other
+IDN,AUS,Mongol,Other
+IDN,AUS,Montenegrian,Other
+IDN,AUS,Moroccan,Other
+IDN,AUS,Mozambican,Other
+IDN,AUS,Namibian,Other
+IDN,AUS,Native North American Indian,Other
+IDN,AUS,Nauru,Other
+IDN,AUS,Nepalese,Other
+IDN,AUS,New Caledonian,Other
+IDN,AUS,New Zealand,Other
+IDN,AUS,New Zealand Maori,Other
+IDN,AUS,"New Zealand Peoples, nfd",Other
+IDN,AUS,Ni-Vanuatu,Other
+IDN,AUS,Nicaraguan,Other
+IDN,AUS,Nigerian,Other
+IDN,AUS,Niuean,Other
+IDN,AUS,"North African and Middle Eastern, nfd",Other
+IDN,AUS,"North American, nec (incl. Bermudan, Inuit, Metis)",Other
+IDN,AUS,"North American, nfd",Other
+IDN,AUS,"North European, nec (incl. Faeroese, Greenlandic, Saami)",Other
+IDN,AUS,"North European, nfd",Other
+IDN,AUS,"North-East Asian, nfd",Other
+IDN,AUS,"North-West European, nfd",Other
+IDN,AUS,Norwegian,Other
+IDN,AUS,Not Stated,Other
+IDN,AUS,Nubian,Other
+IDN,AUS,Nuer,Other
+IDN,AUS,"Oceania, nfd",Other
+IDN,AUS,Ogaden,Other
+IDN,AUS,Omani,Other
+IDN,AUS,Oromo,Other
+IDN,AUS,Other,Other
+IDN,AUS,"Other North African and Middle Eastern, nec (incl. Azande, Beja, Nubian)",Other
+IDN,AUS,"Other North African and Middle Eastern, nfd",Other
+IDN,AUS,"Other North-East Asian, nec (incl. Ainu, Menba, Xiareba)",Other
+IDN,AUS,"Other North-East Asian, nfd",Other
+IDN,AUS,Pakistani,Other
+IDN,AUS,Palestinian,Other
+IDN,AUS,Papua New Guinean,Other
+IDN,AUS,Paraguayan,Other
+IDN,AUS,Parsi,Other
+IDN,AUS,Pathan,Other
+IDN,AUS,"People of the Americas, nfd",Other
+IDN,AUS,"Peoples of the Sudan, nec",Other
+IDN,AUS,"Peoples of the Sudan, nfd",Other
+IDN,AUS,Peruvian,Other
+IDN,AUS,Pitcairn Islander,Other
+IDN,AUS,Polish,Other
+IDN,AUS,"Polynesian, nec (incl. Hawaiian, Pitcairn Islander, Tahitian)",Other
+IDN,AUS,"Polynesian, nfd",Other
+IDN,AUS,Portuguese,Other
+IDN,AUS,Puerto Rican,Other
+IDN,AUS,Punjabi,Other
+IDN,AUS,Qatari,Other
+IDN,AUS,Rohingya,Other
+IDN,AUS,Romani (Gypsy),Other
+IDN,AUS,Romanian,Other
+IDN,AUS,Russian,Other
+IDN,AUS,Rwandan,Other
+IDN,AUS,Salvadoran,Other
+IDN,AUS,Samoan,Other
+IDN,AUS,Saudi Arabian,Other
+IDN,AUS,Scottish,Other
+IDN,AUS,Senegalese,Other
+IDN,AUS,Serbian,Other
+IDN,AUS,Seychellois,Other
+IDN,AUS,Shona,Other
+IDN,AUS,Sierra Leonean,Other
+IDN,AUS,Sikh,Other
+IDN,AUS,Sindhi,Other
+IDN,AUS,Singaporean,Other
+IDN,AUS,Sinhalese,Other
+IDN,AUS,Slovak,Other
+IDN,AUS,Slovenian,Other
+IDN,AUS,Solomon Islander,Other
+IDN,AUS,Somalie,Other
+IDN,AUS,Sorb/Wend,Other
+IDN,AUS,South African,Other
+IDN,AUS,"South American, nec (incl. Arawak, Carib, Surinamese)",Other
+IDN,AUS,"South American, nfd",Other
+IDN,AUS,"South Eastern European, nec (incl. Aromani, Karakachani, Vlach)",Other
+IDN,AUS,"South Eastern European, nfd",Other
+IDN,AUS,South Sudanese,Other
+IDN,AUS,"South-East Asian, nfd",Other
+IDN,AUS,"Southern Asian, nec (incl. Bhote, Kashmiri, Sherpa)",Other
+IDN,AUS,"Southern Asian, nfd",Other
+IDN,AUS,"Southern European, nec (incl. Andorran, Galician, Ladin)",Other
+IDN,AUS,"Southern European, nfd",Other
+IDN,AUS,"Southern and Central Asian, nfd",Other
+IDN,AUS,"Southern and East African, nec (incl. Afar, Tutsi, Zulu)",Other
+IDN,AUS,"Southern and East African, nfd",Other
+IDN,AUS,"Southern and Eastern European, nfd",Other
+IDN,AUS,Spanish,Other
+IDN,AUS,Sri Lanka Tamil,Other
+IDN,AUS,Sri Lankan,Other
+IDN,AUS,"Sub-saharan African, nfd",Other
+IDN,AUS,Sudanese,Other
+IDN,AUS,Sundanese,"Sunda, Priangan"
+IDN,AUS,Swahili,Other
+IDN,AUS,Swaziland,Other
+IDN,AUS,Swedish,Other
+IDN,AUS,Swiss,Other
+IDN,AUS,Syrian,Other
+IDN,AUS,Tahitian,Other
+IDN,AUS,Taiwanese,Other
+IDN,AUS,Tajik,Other
+IDN,AUS,Tamil,Other
+IDN,AUS,Tanzanian,Other
+IDN,AUS,Tatar,Other
+IDN,AUS,Telugu,Other
+IDN,AUS,Thai,Other
+IDN,AUS,Themne,Other
+IDN,AUS,Tibetan,Other
+IDN,AUS,Tigray,Other
+IDN,AUS,Tigre,Other
+IDN,AUS,Timorese,Other
+IDN,AUS,Togolese,Other
+IDN,AUS,Tokelauan,Other
+IDN,AUS,Tongan,Other
+IDN,AUS,Torres Strait Islander,Other
+IDN,AUS,Trinidad and Tobago,Other
+IDN,AUS,Tunisian,Other
+IDN,AUS,Turkish,Other
+IDN,AUS,Turkmenian,Other
+IDN,AUS,Tuvaluan,Other
+IDN,AUS,Ugandan,Other
+IDN,AUS,Uighur,Other
+IDN,AUS,Ukrainian,Other
+IDN,AUS,Uruguayan,Other
+IDN,AUS,Uzbek,Other
+IDN,AUS,Venezuelan,Other
+IDN,AUS,Vietnamese,Other
+IDN,AUS,Vlach,Other
+IDN,AUS,Walloon,Other
+IDN,AUS,Welsh,Other
+IDN,AUS,"Western European, nec (incl. Alsatian, Frisian, Luxembourgish)",Other
+IDN,AUS,"Western European, nfd",Other
+IDN,AUS,Yazidi,Other
+IDN,AUS,Yemeni,Other
+IDN,AUS,Yoruba,Other
+IDN,AUS,Zambian,Other
+IDN,AUS,Zimbabwean,Other
+IDN,AUS,Zulu,Other
+IDN,CHN,Achang,Other
+IDN,CHN,Bai,Other
+IDN,CHN,Blang,Other
+IDN,CHN,Bonan,Other
+IDN,CHN,Bouyei,Other
+IDN,CHN,Dai,Other
+IDN,CHN,Daur,Other
+IDN,CHN,Deang,Other
+IDN,CHN,Dong,Other
+IDN,CHN,Dongxiang,Other
+IDN,CHN,Drung,Other
+IDN,CHN,Ewenki,Other
+IDN,CHN,Foreigners,Other
+IDN,CHN,Gaoshan,Other
+IDN,CHN,Gelao,Other
+IDN,CHN,Han,Other
+IDN,CHN,Hani,Other
+IDN,CHN,Hezhen,Other
+IDN,CHN,Hui,Other
+IDN,CHN,Jing,Other
+IDN,CHN,Jingpo,Other
+IDN,CHN,Jino,Other
+IDN,CHN,Kazak,Other
+IDN,CHN,Korean,Other
+IDN,CHN,Kyrgyz,Other
+IDN,CHN,Lahu,Other
+IDN,CHN,Lhoba,Other
+IDN,CHN,Li,Other
+IDN,CHN,Lisu,Other
+IDN,CHN,Manchu,Other
+IDN,CHN,Maonan,Other
+IDN,CHN,Miao,Other
+IDN,CHN,Monba,Other
+IDN,CHN,Mongol,Other
+IDN,CHN,Mulam,Other
+IDN,CHN,Naxi,Other
+IDN,CHN,Nu,Other
+IDN,CHN,Orogen,Other
+IDN,CHN,Other,Other
+IDN,CHN,Pumi,Other
+IDN,CHN,Qiang,Other
+IDN,CHN,Russian,Other
+IDN,CHN,Salar,Other
+IDN,CHN,She,Other
+IDN,CHN,Shui,Other
+IDN,CHN,Tajik,Other
+IDN,CHN,Tatar,Other
+IDN,CHN,Tibetan,Other
+IDN,CHN,Tu,Other
+IDN,CHN,Tujia,Other
+IDN,CHN,Unknown,Other
+IDN,CHN,Uyghur,Other
+IDN,CHN,Uzbek,Other
+IDN,CHN,Va,Other
+IDN,CHN,Xibe,Other
+IDN,CHN,Yao,Other
+IDN,CHN,Yi,Other
+IDN,CHN,Yugur,Other
+IDN,CHN,Zhuang,Other
+IDN,ERI,,Other
+IDN,ETH,Affar,Other
+IDN,ETH,Agew/Awingi,Other
+IDN,ETH,Agew/Kamyr,Other
+IDN,ETH,Alaba,Other
+IDN,ETH,Amhara,Other
+IDN,ETH,Anyiwak,Other
+IDN,ETH,Arborie,Other
+IDN,ETH,Argoba,Other
+IDN,ETH,Ari,Other
+IDN,ETH,Bacha,Other
+IDN,ETH,Basketo,Other
+IDN,ETH,Bena,Other
+IDN,ETH,Bench,Other
+IDN,ETH,Berta,Other
+IDN,ETH,Bodi,Other
+IDN,ETH,Brayle,Other
+IDN,ETH,Burji,Other
+IDN,ETH,Chara,Other
+IDN,ETH,Dasenech,Other
+IDN,ETH,Dawro,Other
+IDN,ETH,Debase/Gewada,Other
+IDN,ETH,Derashe,Other
+IDN,ETH,Dime,Other
+IDN,ETH,Dizi,Other
+IDN,ETH,Djebutians,Other
+IDN,ETH,Donga,Other
+IDN,ETH,Eritrean,Other
+IDN,ETH,Fedashe,Other
+IDN,ETH,Gamo,Other
+IDN,ETH,Gebato,Other
+IDN,ETH,Gedeo,Other
+IDN,ETH,Gedicho,Other
+IDN,ETH,Gidole,Other
+IDN,ETH,Goffa,Other
+IDN,ETH,Guagu,Other
+IDN,ETH,Gumuz,Other
+IDN,ETH,Guragie,Other
+IDN,ETH,Hadiya,Other
+IDN,ETH,Hamer,Other
+IDN,ETH,Hareri,Other
+IDN,ETH,Irob,Other
+IDN,ETH,Karo,Other
+IDN,ETH,Kefficho,Other
+IDN,ETH,Kembata,Other
+IDN,ETH,Kenyan,Other
+IDN,ETH,Koma,Other
+IDN,ETH,Konso,Other
+IDN,ETH,Konta,Other
+IDN,ETH,Kore,Other
+IDN,ETH,Koyego,Other
+IDN,ETH,Kunama,Other
+IDN,ETH,Kusumie,Other
+IDN,ETH,Malie,Other
+IDN,ETH,Mao,Other
+IDN,ETH,Mareko,Other
+IDN,ETH,Mashola,Other
+IDN,ETH,Me'enite,Other
+IDN,ETH,Mejenger,Other
+IDN,ETH,Mere,Other
+IDN,ETH,Messengo,Other
+IDN,ETH,Mixed,Other
+IDN,ETH,Mossiya,Other
+IDN,ETH,Murle,Other
+IDN,ETH,Mursi,Other
+IDN,ETH,Nao,Other
+IDN,ETH,Nuwer,Other
+IDN,ETH,Nyanegatome,Other
+IDN,ETH,Oida,Other
+IDN,ETH,Oromo,Other
+IDN,ETH,Other,Other
+IDN,ETH,Other Ethiopian national groups,Other
+IDN,ETH,Qebena,Other
+IDN,ETH,Qechem,Other
+IDN,ETH,Qewama,Other
+IDN,ETH,She,Other
+IDN,ETH,Shekecho,Other
+IDN,ETH,Sheko,Other
+IDN,ETH,Shinasha,Other
+IDN,ETH,Sidama,Other
+IDN,ETH,Silte,Other
+IDN,ETH,Somali an,Other
+IDN,ETH,Somalie,Other
+IDN,ETH,Sudanese,Other
+IDN,ETH,Surma,Other
+IDN,ETH,Tembaro,Other
+IDN,ETH,Tigray,Other
+IDN,ETH,Tsemay,Other
+IDN,ETH,Upo,Other
+IDN,ETH,Welaita,Other
+IDN,ETH,Werji,Other
+IDN,ETH,Yem,Other
+IDN,ETH,Zelmam,Other
+IDN,ETH,Zeyese,Other
+IDN,GBR,Asians,Other
+IDN,GBR,Bangladeshi,Other
+IDN,GBR,Black,Other
+IDN,GBR,Black Caribbean,Other
+IDN,GBR,Black Other,Other
+IDN,GBR,Chinese,Other
+IDN,GBR,Indian,Other
+IDN,GBR,Other,Other
+IDN,GBR,Pakistani,Other
+IDN,GBR,White,Other
+IDN,IND,,Other
+IDN,IRN,Afgan,Other
+IDN,IRN,Iranian,Other
+IDN,IRN,Iraqi,Other
+IDN,IRN,Not Stated,Other
+IDN,IRN,Other,Other
+IDN,IRN,Pakistani,Other
+IDN,IRN,Turkish,Other
+IDN,IRQ,,Other
+IDN,JPN,,Other
+IDN,KHM,,Other
+IDN,KOR,,Other
+IDN,LKA,Bharatha,Other
+IDN,LKA,Burgher,Other
+IDN,LKA,Indian Tamil,Other
+IDN,LKA,Malay,Other
+IDN,LKA,Other,Other
+IDN,LKA,Sinhalese,Other
+IDN,LKA,Sri Lanka Chetty,Other
+IDN,LKA,Sri Lanka Moor,Other
+IDN,LKA,Sri Lanka Tamil,Other
+IDN,MMR,,Other
+IDN,MYS,Chinese,Other
+IDN,MYS,Indian,Other
+IDN,MYS,Malay,Other
+IDN,MYS,Non-Malaysian citizens,Other
+IDN,MYS,Other,Other
+IDN,MYS,Other Bumi,Other
+IDN,PAK,,Other
+IDN,PHL,Abelling,Other
+IDN,PHL,Abiyan,Other
+IDN,PHL,Aburlin,Other
+IDN,PHL,Aeta,Other
+IDN,PHL,Aeta/Ayta,Other
+IDN,PHL,Aeta/Ayta-Sambal,Other
+IDN,PHL,Afgan,Other
+IDN,PHL,Aggay,Other
+IDN,PHL,Agta,Other
+IDN,PHL,Agutaynon,Other
+IDN,PHL,Akeanon/Aklanon,Other
+IDN,PHL,Alangan,Other
+IDN,PHL,Alta,Other
+IDN,PHL,American,Other
+IDN,PHL,Apayao/Yapayao,Other
+IDN,PHL,Applai,Other
+IDN,PHL,Aromanen-Manobo/Eromanen,Other
+IDN,PHL,Aromanen-Manobo/Eromanen-Manobo,Other
+IDN,PHL,Ata,Other
+IDN,PHL,Ati,Other
+IDN,PHL,Atta/Ata/Ati,Other
+IDN,PHL,Australian,Other
+IDN,PHL,Ayangan,Other
+IDN,PHL,Badjao,Other
+IDN,PHL,"Badjao, Sama Dilaut            ",Other
+IDN,PHL,Bago,Other
+IDN,PHL,Bagobo,Other
+IDN,PHL,Bagobo Klata,Other
+IDN,PHL,Bagobo Tagabawa,Other
+IDN,PHL,Bagobo/Guinga,Other
+IDN,PHL,Bajaus,Other
+IDN,PHL,Balangao/Baliwon,Other
+IDN,PHL,Baliwon-Gaddang,Other
+IDN,PHL,Bantoanon,Other
+IDN,PHL,Banwaon,Other
+IDN,PHL,Batak/Binatak,Other
+IDN,PHL,Batangan,Other
+IDN,PHL,Bikol/Bicol,Other
+IDN,PHL,Bilaan/B'laan,Other
+IDN,PHL,Binukid/Bukidnon,Other
+IDN,PHL,Bisaya/Binisaya,Other
+IDN,PHL,Boholano,Other
+IDN,PHL,Bolinao,Other
+IDN,PHL,Bontok/Binontok,Other
+IDN,PHL,British,Other
+IDN,PHL,Bugkalot,Other
+IDN,PHL,Buhid,Other
+IDN,PHL,Bukidnon-Akeanon,Other
+IDN,PHL,Bukidnon-Iraynon,Other
+IDN,PHL,Butuanon,Other
+IDN,PHL,Cagayanen,Other
+IDN,PHL,Calinga,Other
+IDN,PHL,Canadian,Other
+IDN,PHL,Capizeño,Other
+IDN,PHL,Caviteño,Other
+IDN,PHL,Caviteño-Chavacano,Other
+IDN,PHL,Cebuano,Other
+IDN,PHL,Chinese,Other
+IDN,PHL,Cimaron,Other
+IDN,PHL,Cotabateño,Other
+IDN,PHL,Cotabateño-Chavacano,Other
+IDN,PHL,Cuyunon/Cuyunan,Other
+IDN,PHL,Davao-Chavacano,Other
+IDN,PHL,Davaweño,Other
+IDN,PHL,Diangan,Other
+IDN,PHL,Dibabawon,Other
+IDN,PHL,Dumagat (Umiray),Other
+IDN,PHL,Dumagat-Remontado,Other
+IDN,PHL,Eskaya,Other
+IDN,PHL,French,Other
+IDN,PHL,Gaddang,Other
+IDN,PHL,German,Other
+IDN,PHL,Gubatnon,Other
+IDN,PHL,Guiangan,Other
+IDN,PHL,Hamtikanon,Other
+IDN,PHL,Hanunuo,Other
+IDN,PHL,Higaonon,Other
+IDN,PHL,Higaonon-Tagoloanon,Other
+IDN,PHL,"Hiligaynon, ilonggo               ",Other
+IDN,PHL,Ibaloi/Inibaloi,Other
+IDN,PHL,Ibanag,Other
+IDN,PHL,Ibatan,Other
+IDN,PHL,Ibontoc,Other
+IDN,PHL,Ibukid,Other
+IDN,PHL,Ifugao,Other
+IDN,PHL,Ikalahan/Kalanguya,Other
+IDN,PHL,Ilanun,Other
+IDN,PHL,Illaud,Other
+IDN,PHL,Ilocano,Other
+IDN,PHL,Ilongot,Other
+IDN,PHL,Imalawa,Other
+IDN,PHL,Indian (indigenous),Other
+IDN,PHL,Indonesian,Other
+IDN,PHL,Iranon,Other
+IDN,PHL,Iraya,Other
+IDN,PHL,Isamal Kanlaw,Other
+IDN,PHL,Isarog,Other
+IDN,PHL,Isinay,Other
+IDN,PHL,Isnag,Other
+IDN,PHL,Isneg,Other
+IDN,PHL,Italian,Other
+IDN,PHL,Itawis,Other
+IDN,PHL,Itawit,Other
+IDN,PHL,Itneg,Other
+IDN,PHL,Itneg/Tinguian,Other
+IDN,PHL,Itneg/Tinguian-Adasen,Other
+IDN,PHL,Itneg/Tinguian-Inlaud,Other
+IDN,PHL,Itneg/Tinguian-Maeng,Other
+IDN,PHL,Itneg/Tinguian-Masadiit,Other
+IDN,PHL,Ivatan/Itbayat,Other
+IDN,PHL,Iwak/owak,Other
+IDN,PHL,Iyapplai,Other
+IDN,PHL,Iyiwaks,Other
+IDN,PHL,Japanese,Other
+IDN,PHL,Jawa Mapun,Jawa
+IDN,PHL,Kaagan,Other
+IDN,PHL,Kabayukan,Other
+IDN,PHL,Kabihug,Other
+IDN,PHL,Kagayanen,Other
+IDN,PHL,Kailawan/Kaylawan,Other
+IDN,PHL,Kalagan,Other
+IDN,PHL,Kalamianen,Other
+IDN,PHL,Kalinga,Other
+IDN,PHL,Kalinga-Lubuagan,Other
+IDN,PHL,Kalinga-Pinukpuk,Other
+IDN,PHL,Kamayo,Other
+IDN,PHL,Kamigin/Kinamiging,Other
+IDN,PHL,Kankaney,Other
+IDN,PHL,Kapampangan,Other
+IDN,PHL,Kapul,Other
+IDN,PHL,Karaga,Other
+IDN,PHL,Karao,Other
+IDN,PHL,Karaya,Other
+IDN,PHL,Karolanos,Other
+IDN,PHL,Kasigurahin,Other
+IDN,PHL,Kaunana,Other
+IDN,PHL,Kinalinga,Other
+IDN,PHL,Kiniraya,Other
+IDN,PHL,Kolibugan/Kalibugan,Other
+IDN,PHL,Korean,Other
+IDN,PHL,Lambanguian,Other
+IDN,PHL,Langi,Other
+IDN,PHL,Ligbuk/Lugbok,Other
+IDN,PHL,Magahats,Other
+IDN,PHL,Magkunana,Other
+IDN,PHL,Maguindanao,Other
+IDN,PHL,Malaueg,Other
+IDN,PHL,Malbog,Other
+IDN,PHL,Mamanwa,Other
+IDN,PHL,Mandaya,Other
+IDN,PHL,Mangguangan,Other
+IDN,PHL,Mangyan,Other
+IDN,PHL,Mangyan-Alangan,Other
+IDN,PHL,Mangyan-Buhid,Other
+IDN,PHL,Mangyan-Hanunuo,Other
+IDN,PHL,Mangyan-Iraya,Other
+IDN,PHL,Manobo-Aromanon,Other
+IDN,PHL,Manobo-Ata,Other
+IDN,PHL,Manobo-Dulangan,Other
+IDN,PHL,Manobo-Pulanguinon,Other
+IDN,PHL,Manobo/Ata-Manobo,Other
+IDN,PHL,Mansaka,Other
+IDN,PHL,Maranao,Other
+IDN,PHL,Masbateño/Masbatenon,Other
+IDN,PHL,Matigsalog,Other
+IDN,PHL,Molbog,Other
+IDN,PHL,Negrito,Other
+IDN,PHL,Nilulubo,Other
+IDN,PHL,Obu-Manuvu,Other
+IDN,PHL,Other Foreign Ethinicity,Other
+IDN,PHL,Other local ethnicity,Other
+IDN,PHL,Palawan-o,Other
+IDN,PHL,Palawan/Pinalawan,Other
+IDN,PHL,Pan-Ayanon,Other
+IDN,PHL,Panay Bukidnon,Other
+IDN,PHL,Pangasinan/Panggalato,Other
+IDN,PHL,Paranan,Other
+IDN,PHL,Pinangal,Other
+IDN,PHL,Ratagnon,Other
+IDN,PHL,Remontado,Other
+IDN,PHL,Romblon,Other
+IDN,PHL,Sama (Samal)/Abaknon,Other
+IDN,PHL,Sama Badjao,Other
+IDN,PHL,Sama Bangengeh,Other
+IDN,PHL,Sama Bangingi,Other
+IDN,PHL,Sama Dilaya,Other
+IDN,PHL,"Sambal, Zambal                                             ",Other
+IDN,PHL,"Sangil, Sangir                                             ",Other
+IDN,PHL,Sibuyan Mangyan-Tagabukid,Other
+IDN,PHL,Singaporean,Other
+IDN,PHL,South African,Other
+IDN,PHL,Spanish,Other
+IDN,PHL,Subanen/Subaben,Other
+IDN,PHL,Sulod,Other
+IDN,PHL,Surigaonon,Other
+IDN,PHL,Swiss,Other
+IDN,PHL,T'boli,Other
+IDN,PHL,Tabangnon,Other
+IDN,PHL,Tadyawan,Other
+IDN,PHL,Tagabawa,Other
+IDN,PHL,Tagabili,Other
+IDN,PHL,Tagakaolo,Other
+IDN,PHL,Tagalog,Other
+IDN,PHL,Tagbanwa,Other
+IDN,PHL,Tagbuaonon,Other
+IDN,PHL,Taiwanese,Other
+IDN,PHL,Talaandig,Other
+IDN,PHL,Talaingod,Other
+IDN,PHL,Tausug,Other
+IDN,PHL,Teduray,Other
+IDN,PHL,Ternateño-Chavacano,Other
+IDN,PHL,Tigwahon,Other
+IDN,PHL,Tinananen,Other
+IDN,PHL,Tinggian,Other
+IDN,PHL,Tiruray,Other
+IDN,PHL,Turkish,Other
+IDN,PHL,Tuwali,Other
+IDN,PHL,Ubo,Other
+IDN,PHL,Umayamnon,Other
+IDN,PHL,Unknown,Other
+IDN,PHL,Waray,Other
+IDN,PHL,Yakan,Other
+IDN,PHL,Yogad,Other
+IDN,PHL,Zamboangeño-Chavacano,Other
+IDN,PSE,Jordanian,Other
+IDN,PSE,Other,Other
+IDN,PSE,Other Arab,Other
+IDN,PSE,Palestinian,Other
+IDN,PSE,Unknown,Other
+IDN,SAU,,Other
+IDN,SDN,,Other
+IDN,SGP,Chinese,Other
+IDN,SGP,Indian,Other
+IDN,SGP,Malay,Other
+IDN,SGP,Other,Other
+IDN,SOM,,Other
+IDN,THA,Bangladeshi,Other
+IDN,THA,Cambodian,Other
+IDN,THA,Chinese,Other
+IDN,THA,Indian,Other
+IDN,THA,Japanese,Other
+IDN,THA,Korean,Other
+IDN,THA,Laotian,Other
+IDN,THA,Myanmar,Other
+IDN,THA,Nepalese,Other
+IDN,THA,Pakistani,Other
+IDN,THA,Philippine Native,Other
+IDN,THA,Sri Lankan,Other
+IDN,THA,Thai,Other
+IDN,THA,Unknown,Other
+IDN,THA,Vietnamese,Other
+IDN,TLS,,Other
+IDN,USA,American Indian and Alaska native,Other
+IDN,USA,Asian,Other
+IDN,USA,Black or African American,Other
+IDN,USA,Native Hawaiian and other Pacific Islander,Other
+IDN,USA,Some other race,Other
+IDN,USA,Two or more races,Other
+IDN,USA,White,Other
+IDN,VNM,Bana,Other
+IDN,VNM,Bo Y,Other
+IDN,VNM,Brau,Other
+IDN,VNM,Bru Van Kieu,Other
+IDN,VNM,Cham,Other
+IDN,VNM,Choro,Other
+IDN,VNM,Churu,Other
+IDN,VNM,Chut,Other
+IDN,VNM,Co,Other
+IDN,VNM,Co Lao,Other
+IDN,VNM,Coho,Other
+IDN,VNM,Cong,Other
+IDN,VNM,Cotu,Other
+IDN,VNM,Dao,Other
+IDN,VNM,Ede,Other
+IDN,VNM,Foreigners,Other
+IDN,VNM,Giarai,Other
+IDN,VNM,Giay,Other
+IDN,VNM,Gie Trieng,Other
+IDN,VNM,Ha Nhi,Other
+IDN,VNM,Hmong,Other
+IDN,VNM,Hoa,Other
+IDN,VNM,Hre,Other
+IDN,VNM,Khang,Other
+IDN,VNM,Khmer,Other
+IDN,VNM,Khome,Other
+IDN,VNM,Khomu,Other
+IDN,VNM,Kinh,Other
+IDN,VNM,La Chi,Other
+IDN,VNM,La Ha,Other
+IDN,VNM,Lahu,Other
+IDN,VNM,Lao,Other
+IDN,VNM,Lolo,Other
+IDN,VNM,Lu,Other
+IDN,VNM,Ma,Other
+IDN,VNM,Mang,Other
+IDN,VNM,Mnong,Other
+IDN,VNM,Muong,Other
+IDN,VNM,Ngai,Other
+IDN,VNM,Not Stated,Other
+IDN,VNM,Nung,Other
+IDN,VNM,O Du,Other
+IDN,VNM,Pa Then,Other
+IDN,VNM,Phu La,Other
+IDN,VNM,Pu Peo,Other
+IDN,VNM,Raglai,Other
+IDN,VNM,Romam,Other
+IDN,VNM,San Chay,Other
+IDN,VNM,San Diu,Other
+IDN,VNM,Si La,Other
+IDN,VNM,Taoi,Other
+IDN,VNM,Tay,Other
+IDN,VNM,Thai,Other
+IDN,VNM,Tho,Other
+IDN,VNM,Xinh mun,Other
+IDN,VNM,Xodan,Other
+IDN,VNM,Xtieng,Other
+IDN,YEM,,Other
+MYS,AFG,,Non-Malaysian citizens
+MYS,AUS,Acehnese,Non-Malaysian citizens
+MYS,AUS,Acholi,Non-Malaysian citizens
+MYS,AUS,Afgan,Non-Malaysian citizens
+MYS,AUS,African American,Non-Malaysian citizens
+MYS,AUS,"African, so described",Non-Malaysian citizens
+MYS,AUS,Afrikaner,Non-Malaysian citizens
+MYS,AUS,Akan,Non-Malaysian citizens
+MYS,AUS,Albanian,Non-Malaysian citizens
+MYS,AUS,Algerian,Non-Malaysian citizens
+MYS,AUS,American,Non-Malaysian citizens
+MYS,AUS,Amhara,Non-Malaysian citizens
+MYS,AUS,Anglo-Burmese,Non-Malaysian citizens
+MYS,AUS,Anglo-Indian,Indian
+MYS,AUS,Angolan,Non-Malaysian citizens
+MYS,AUS,"Arab, nec (incl. Baggara, Bedouin, Yemeni)",Non-Malaysian citizens
+MYS,AUS,"Arab, nfd",Non-Malaysian citizens
+MYS,AUS,Argentinean,Non-Malaysian citizens
+MYS,AUS,Armenian,Non-Malaysian citizens
+MYS,AUS,"Asian, so described",Non-Malaysian citizens
+MYS,AUS,Assyrian/ Chaldean,Non-Malaysian citizens
+MYS,AUS,Australian,Non-Malaysian citizens
+MYS,AUS,Australian Aboriginal,Non-Malaysian citizens
+MYS,AUS,Australian South Sea Islander,Non-Malaysian citizens
+MYS,AUS,"Australian peoples, nfd",Non-Malaysian citizens
+MYS,AUS,Austrian,Non-Malaysian citizens
+MYS,AUS,Azeris,Non-Malaysian citizens
+MYS,AUS,Bahraini,Non-Malaysian citizens
+MYS,AUS,Balinese,Non-Malaysian citizens
+MYS,AUS,Bangladeshi,Non-Malaysian citizens
+MYS,AUS,Barbadian,Non-Malaysian citizens
+MYS,AUS,Bari,Non-Malaysian citizens
+MYS,AUS,Basque,Non-Malaysian citizens
+MYS,AUS,Batswana,Non-Malaysian citizens
+MYS,AUS,Belarus,Non-Malaysian citizens
+MYS,AUS,Belgian,Non-Malaysian citizens
+MYS,AUS,Bengali,Indian
+MYS,AUS,Berber,Non-Malaysian citizens
+MYS,AUS,Bermudian,Non-Malaysian citizens
+MYS,AUS,Bhutanese,Non-Malaysian citizens
+MYS,AUS,Bolivian,Non-Malaysian citizens
+MYS,AUS,Bosnian,Non-Malaysian citizens
+MYS,AUS,Brazil,Non-Malaysian citizens
+MYS,AUS,Breton,Non-Malaysian citizens
+MYS,AUS,British NEC,Non-Malaysian citizens
+MYS,AUS,"British, nec (incl. Channel Islander, Guernsey Islander, Manx)",Non-Malaysian citizens
+MYS,AUS,"British, nfd",Non-Malaysian citizens
+MYS,AUS,Bruneian,Non-Malaysian citizens
+MYS,AUS,Bulgarian,Non-Malaysian citizens
+MYS,AUS,Burgher,Non-Malaysian citizens
+MYS,AUS,Burmese,Non-Malaysian citizens
+MYS,AUS,Burundian,Non-Malaysian citizens
+MYS,AUS,Cameroonian,Non-Malaysian citizens
+MYS,AUS,Canadian,Non-Malaysian citizens
+MYS,AUS,"Caribbean, nfd",Non-Malaysian citizens
+MYS,AUS,"Carribbean Islander, nec (incl.Bahamian, Haitian, Puerto Rican)",Non-Malaysian citizens
+MYS,AUS,Catalan,Non-Malaysian citizens
+MYS,AUS,"Caucasian, so described",Non-Malaysian citizens
+MYS,AUS,"Central American, nec (incl. Belizean, Costa Rican, Mayan)",Non-Malaysian citizens
+MYS,AUS,"Central American, nfd",Non-Malaysian citizens
+MYS,AUS,"Central Asian, nec (incl. Azerbaijani, Chechen, Tatar)",Non-Malaysian citizens
+MYS,AUS,"Central Asian, nfd",Non-Malaysian citizens
+MYS,AUS,"Central and West Africa, nec (incl. Fang, Kongo, Liberian)",Non-Malaysian citizens
+MYS,AUS,"Central and West Africa, nfd",Non-Malaysian citizens
+MYS,AUS,Chaldean,Non-Malaysian citizens
+MYS,AUS,Channel Islander,Non-Malaysian citizens
+MYS,AUS,Chilean,Non-Malaysian citizens
+MYS,AUS,Chin,Non-Malaysian citizens
+MYS,AUS,Chinese,Chinese
+MYS,AUS,"Chinese Asian, nec (incl. Hui, Manchu, Yi)",Chinese
+MYS,AUS,"Chinese Asian, nfd",Chinese
+MYS,AUS,Colombian,Non-Malaysian citizens
+MYS,AUS,Congo,Non-Malaysian citizens
+MYS,AUS,Cook Islander,Non-Malaysian citizens
+MYS,AUS,Coptic,Non-Malaysian citizens
+MYS,AUS,Costa Rican,Non-Malaysian citizens
+MYS,AUS,"Creole, so described",Non-Malaysian citizens
+MYS,AUS,Croatian,Non-Malaysian citizens
+MYS,AUS,Cubans,Non-Malaysian citizens
+MYS,AUS,Cypriot,Non-Malaysian citizens
+MYS,AUS,Czech,Non-Malaysian citizens
+MYS,AUS,Danish,Non-Malaysian citizens
+MYS,AUS,Darfu/Darfurian,Non-Malaysian citizens
+MYS,AUS,Dinka,Non-Malaysian citizens
+MYS,AUS,Dutch,Non-Malaysian citizens
+MYS,AUS,"Eastern European, nec (incl. Adygei, Khanty, Sorb/Wend)",Non-Malaysian citizens
+MYS,AUS,"Eastern European, nfd",Non-Malaysian citizens
+MYS,AUS,Ecuadorian,Non-Malaysian citizens
+MYS,AUS,Egyptian,Non-Malaysian citizens
+MYS,AUS,Emirati,Non-Malaysian citizens
+MYS,AUS,English,Non-Malaysian citizens
+MYS,AUS,Eritrean,Non-Malaysian citizens
+MYS,AUS,Estonian,Non-Malaysian citizens
+MYS,AUS,Ethiopian,Non-Malaysian citizens
+MYS,AUS,"Eurasian, so described",Non-Malaysian citizens
+MYS,AUS,"European, so described",Non-Malaysian citizens
+MYS,AUS,Fijian,Non-Malaysian citizens
+MYS,AUS,Fijian Indian/Indo-Fijian,Indian
+MYS,AUS,Filipino,Non-Malaysian citizens
+MYS,AUS,Finnish,Non-Malaysian citizens
+MYS,AUS,Flemish,Non-Malaysian citizens
+MYS,AUS,French,Non-Malaysian citizens
+MYS,AUS,French Canadian,Non-Malaysian citizens
+MYS,AUS,Frisian,Non-Malaysian citizens
+MYS,AUS,Fulani,Non-Malaysian citizens
+MYS,AUS,Georgian,Non-Malaysian citizens
+MYS,AUS,German,Non-Malaysian citizens
+MYS,AUS,Ghanaian,Non-Malaysian citizens
+MYS,AUS,Gibraltarian,Non-Malaysian citizens
+MYS,AUS,Gio,Non-Malaysian citizens
+MYS,AUS,Greek,Non-Malaysian citizens
+MYS,AUS,Guatemalan,Non-Malaysian citizens
+MYS,AUS,Gujarati,Indian
+MYS,AUS,Gurkha,Non-Malaysian citizens
+MYS,AUS,Guyanese,Non-Malaysian citizens
+MYS,AUS,Hawaiian,Non-Malaysian citizens
+MYS,AUS,Hazara,Non-Malaysian citizens
+MYS,AUS,Hispanic,Non-Malaysian citizens
+MYS,AUS,Hmong,Non-Malaysian citizens
+MYS,AUS,Hungarian,Non-Malaysian citizens
+MYS,AUS,Hutu,Non-Malaysian citizens
+MYS,AUS,Icelandic,Non-Malaysian citizens
+MYS,AUS,Igbo,Non-Malaysian citizens
+MYS,AUS,Inadequately described,Non-Malaysian citizens
+MYS,AUS,Indian,Indian
+MYS,AUS,Indian Tamil,Indian
+MYS,AUS,Indonesian,Non-Malaysian citizens
+MYS,AUS,Iranian,Non-Malaysian citizens
+MYS,AUS,Iraqi,Non-Malaysian citizens
+MYS,AUS,Irish,Non-Malaysian citizens
+MYS,AUS,Italian,Non-Malaysian citizens
+MYS,AUS,Ivoirean,Non-Malaysian citizens
+MYS,AUS,Jamaican,Non-Malaysian citizens
+MYS,AUS,Japanese,Non-Malaysian citizens
+MYS,AUS,Javanese,Non-Malaysian citizens
+MYS,AUS,Jewish,Non-Malaysian citizens
+MYS,AUS,Jordanian,Non-Malaysian citizens
+MYS,AUS,Kadazan,Other Bumi
+MYS,AUS,Karen,Non-Malaysian citizens
+MYS,AUS,Kashmiri,Non-Malaysian citizens
+MYS,AUS,Kazak,Non-Malaysian citizens
+MYS,AUS,Kenyan,Non-Malaysian citizens
+MYS,AUS,Khmer,Non-Malaysian citizens
+MYS,AUS,Kiribati,Non-Malaysian citizens
+MYS,AUS,Korean,Non-Malaysian citizens
+MYS,AUS,Krahn,Non-Malaysian citizens
+MYS,AUS,Kunama,Non-Malaysian citizens
+MYS,AUS,Kurd,Non-Malaysian citizens
+MYS,AUS,Kuwaiti,Non-Malaysian citizens
+MYS,AUS,Kyrgyz,Non-Malaysian citizens
+MYS,AUS,Lao,Non-Malaysian citizens
+MYS,AUS,Latvian,Non-Malaysian citizens
+MYS,AUS,Lebanese,Non-Malaysian citizens
+MYS,AUS,Liberian,Non-Malaysian citizens
+MYS,AUS,Libyan,Non-Malaysian citizens
+MYS,AUS,Lithuanian,Non-Malaysian citizens
+MYS,AUS,Luxembourg,Non-Malaysian citizens
+MYS,AUS,Macedonian,Non-Malaysian citizens
+MYS,AUS,Madi,Non-Malaysian citizens
+MYS,AUS,Madura,Non-Malaysian citizens
+MYS,AUS,"Mainland South-East Asian, nec (incl. Arakanese, Karen, Mon)",Non-Malaysian citizens
+MYS,AUS,"Mainland South-East Asian, nfd",Non-Malaysian citizens
+MYS,AUS,Malawian,Non-Malaysian citizens
+MYS,AUS,Malay,Malay
+MYS,AUS,Malayali,Non-Malaysian citizens
+MYS,AUS,Maldivian,Non-Malaysian citizens
+MYS,AUS,Maltese,Non-Malaysian citizens
+MYS,AUS,Mandaean,Non-Malaysian citizens
+MYS,AUS,Mandinka,Non-Malaysian citizens
+MYS,AUS,Manx,Non-Malaysian citizens
+MYS,AUS,Marathi,Indian
+MYS,AUS,"Maritime South-East Asian, nec (incl. Balinese, Irian Jayan, Sumatran)",Non-Malaysian citizens
+MYS,AUS,Masai,Non-Malaysian citizens
+MYS,AUS,Mauritian,Non-Malaysian citizens
+MYS,AUS,Maya,Non-Malaysian citizens
+MYS,AUS,"Melanesian and Papuan, nec (incl. Bisorio, Bougainvillian, Huli)",Non-Malaysian citizens
+MYS,AUS,"Melanesian and Papuan, nfd",Non-Malaysian citizens
+MYS,AUS,Mexican,Non-Malaysian citizens
+MYS,AUS,"Micronesian, nec (incl. Marianas Islander, Marshallese, Palauan)",Non-Malaysian citizens
+MYS,AUS,"Micronesian, nfd",Non-Malaysian citizens
+MYS,AUS,Moldovan,Non-Malaysian citizens
+MYS,AUS,Mon,Non-Malaysian citizens
+MYS,AUS,Mongol,Non-Malaysian citizens
+MYS,AUS,Montenegrian,Non-Malaysian citizens
+MYS,AUS,Moroccan,Non-Malaysian citizens
+MYS,AUS,Mozambican,Non-Malaysian citizens
+MYS,AUS,Namibian,Non-Malaysian citizens
+MYS,AUS,Native North American Indian,Non-Malaysian citizens
+MYS,AUS,Nauru,Non-Malaysian citizens
+MYS,AUS,Nepalese,Non-Malaysian citizens
+MYS,AUS,New Caledonian,Non-Malaysian citizens
+MYS,AUS,New Zealand,Non-Malaysian citizens
+MYS,AUS,New Zealand Maori,Non-Malaysian citizens
+MYS,AUS,"New Zealand Peoples, nfd",Non-Malaysian citizens
+MYS,AUS,Ni-Vanuatu,Non-Malaysian citizens
+MYS,AUS,Nicaraguan,Non-Malaysian citizens
+MYS,AUS,Nigerian,Non-Malaysian citizens
+MYS,AUS,Niuean,Non-Malaysian citizens
+MYS,AUS,"North African and Middle Eastern, nfd",Non-Malaysian citizens
+MYS,AUS,"North American, nec (incl. Bermudan, Inuit, Metis)",Non-Malaysian citizens
+MYS,AUS,"North American, nfd",Non-Malaysian citizens
+MYS,AUS,"North European, nec (incl. Faeroese, Greenlandic, Saami)",Non-Malaysian citizens
+MYS,AUS,"North European, nfd",Non-Malaysian citizens
+MYS,AUS,"North-East Asian, nfd",Non-Malaysian citizens
+MYS,AUS,"North-West European, nfd",Non-Malaysian citizens
+MYS,AUS,Norwegian,Non-Malaysian citizens
+MYS,AUS,Not Stated,Non-Malaysian citizens
+MYS,AUS,Nubian,Non-Malaysian citizens
+MYS,AUS,Nuer,Non-Malaysian citizens
+MYS,AUS,"Oceania, nfd",Non-Malaysian citizens
+MYS,AUS,Ogaden,Non-Malaysian citizens
+MYS,AUS,Omani,Non-Malaysian citizens
+MYS,AUS,Oromo,Non-Malaysian citizens
+MYS,AUS,Other,Non-Malaysian citizens
+MYS,AUS,"Other North African and Middle Eastern, nec (incl. Azande, Beja, Nubian)",Non-Malaysian citizens
+MYS,AUS,"Other North African and Middle Eastern, nfd",Non-Malaysian citizens
+MYS,AUS,"Other North-East Asian, nec (incl. Ainu, Menba, Xiareba)",Non-Malaysian citizens
+MYS,AUS,"Other North-East Asian, nfd",Non-Malaysian citizens
+MYS,AUS,Pakistani,Non-Malaysian citizens
+MYS,AUS,Palestinian,Non-Malaysian citizens
+MYS,AUS,Papua New Guinean,Non-Malaysian citizens
+MYS,AUS,Paraguayan,Non-Malaysian citizens
+MYS,AUS,Parsi,Non-Malaysian citizens
+MYS,AUS,Pathan,Non-Malaysian citizens
+MYS,AUS,"People of the Americas, nfd",Non-Malaysian citizens
+MYS,AUS,"Peoples of the Sudan, nec",Non-Malaysian citizens
+MYS,AUS,"Peoples of the Sudan, nfd",Non-Malaysian citizens
+MYS,AUS,Peruvian,Non-Malaysian citizens
+MYS,AUS,Pitcairn Islander,Non-Malaysian citizens
+MYS,AUS,Polish,Non-Malaysian citizens
+MYS,AUS,"Polynesian, nec (incl. Hawaiian, Pitcairn Islander, Tahitian)",Non-Malaysian citizens
+MYS,AUS,"Polynesian, nfd",Non-Malaysian citizens
+MYS,AUS,Portuguese,Non-Malaysian citizens
+MYS,AUS,Puerto Rican,Non-Malaysian citizens
+MYS,AUS,Punjabi,Indian
+MYS,AUS,Qatari,Non-Malaysian citizens
+MYS,AUS,Rohingya,Non-Malaysian citizens
+MYS,AUS,Romani (Gypsy),Non-Malaysian citizens
+MYS,AUS,Romanian,Non-Malaysian citizens
+MYS,AUS,Russian,Non-Malaysian citizens
+MYS,AUS,Rwandan,Non-Malaysian citizens
+MYS,AUS,Salvadoran,Non-Malaysian citizens
+MYS,AUS,Samoan,Non-Malaysian citizens
+MYS,AUS,Saudi Arabian,Non-Malaysian citizens
+MYS,AUS,Scottish,Non-Malaysian citizens
+MYS,AUS,Senegalese,Non-Malaysian citizens
+MYS,AUS,Serbian,Non-Malaysian citizens
+MYS,AUS,Seychellois,Non-Malaysian citizens
+MYS,AUS,Shona,Non-Malaysian citizens
+MYS,AUS,Sierra Leonean,Non-Malaysian citizens
+MYS,AUS,Sikh,Indian
+MYS,AUS,Sindhi,Non-Malaysian citizens
+MYS,AUS,Singaporean,Non-Malaysian citizens
+MYS,AUS,Sinhalese,Non-Malaysian citizens
+MYS,AUS,Slovak,Non-Malaysian citizens
+MYS,AUS,Slovenian,Non-Malaysian citizens
+MYS,AUS,Solomon Islander,Non-Malaysian citizens
+MYS,AUS,Somalie,Non-Malaysian citizens
+MYS,AUS,Sorb/Wend,Non-Malaysian citizens
+MYS,AUS,South African,Non-Malaysian citizens
+MYS,AUS,"South American, nec (incl. Arawak, Carib, Surinamese)",Non-Malaysian citizens
+MYS,AUS,"South American, nfd",Non-Malaysian citizens
+MYS,AUS,"South Eastern European, nec (incl. Aromani, Karakachani, Vlach)",Non-Malaysian citizens
+MYS,AUS,"South Eastern European, nfd",Non-Malaysian citizens
+MYS,AUS,South Sudanese,Non-Malaysian citizens
+MYS,AUS,"South-East Asian, nfd",Non-Malaysian citizens
+MYS,AUS,"Southern Asian, nec (incl. Bhote, Kashmiri, Sherpa)",Non-Malaysian citizens
+MYS,AUS,"Southern Asian, nfd",Non-Malaysian citizens
+MYS,AUS,"Southern European, nec (incl. Andorran, Galician, Ladin)",Non-Malaysian citizens
+MYS,AUS,"Southern European, nfd",Non-Malaysian citizens
+MYS,AUS,"Southern and Central Asian, nfd",Non-Malaysian citizens
+MYS,AUS,"Southern and East African, nec (incl. Afar, Tutsi, Zulu)",Non-Malaysian citizens
+MYS,AUS,"Southern and East African, nfd",Non-Malaysian citizens
+MYS,AUS,"Southern and Eastern European, nfd",Non-Malaysian citizens
+MYS,AUS,Spanish,Non-Malaysian citizens
+MYS,AUS,Sri Lanka Tamil,Indian
+MYS,AUS,Sri Lankan,Non-Malaysian citizens
+MYS,AUS,"Sub-saharan African, nfd",Non-Malaysian citizens
+MYS,AUS,Sudanese,Non-Malaysian citizens
+MYS,AUS,Sundanese,Non-Malaysian citizens
+MYS,AUS,Swahili,Non-Malaysian citizens
+MYS,AUS,Swaziland,Non-Malaysian citizens
+MYS,AUS,Swedish,Non-Malaysian citizens
+MYS,AUS,Swiss,Non-Malaysian citizens
+MYS,AUS,Syrian,Non-Malaysian citizens
+MYS,AUS,Tahitian,Non-Malaysian citizens
+MYS,AUS,Taiwanese,Non-Malaysian citizens
+MYS,AUS,Tajik,Non-Malaysian citizens
+MYS,AUS,Tamil,Indian
+MYS,AUS,Tanzanian,Non-Malaysian citizens
+MYS,AUS,Tatar,Non-Malaysian citizens
+MYS,AUS,Telugu,Indian
+MYS,AUS,Thai,Non-Malaysian citizens
+MYS,AUS,Themne,Non-Malaysian citizens
+MYS,AUS,Tibetan,Non-Malaysian citizens
+MYS,AUS,Tigray,Non-Malaysian citizens
+MYS,AUS,Tigre,Non-Malaysian citizens
+MYS,AUS,Timorese,Non-Malaysian citizens
+MYS,AUS,Togolese,Non-Malaysian citizens
+MYS,AUS,Tokelauan,Non-Malaysian citizens
+MYS,AUS,Tongan,Non-Malaysian citizens
+MYS,AUS,Torres Strait Islander,Non-Malaysian citizens
+MYS,AUS,Trinidad and Tobago,Non-Malaysian citizens
+MYS,AUS,Tunisian,Non-Malaysian citizens
+MYS,AUS,Turkish,Non-Malaysian citizens
+MYS,AUS,Turkmenian,Non-Malaysian citizens
+MYS,AUS,Tuvaluan,Non-Malaysian citizens
+MYS,AUS,Ugandan,Non-Malaysian citizens
+MYS,AUS,Uighur,Non-Malaysian citizens
+MYS,AUS,Ukrainian,Non-Malaysian citizens
+MYS,AUS,Uruguayan,Non-Malaysian citizens
+MYS,AUS,Uzbek,Non-Malaysian citizens
+MYS,AUS,Venezuelan,Non-Malaysian citizens
+MYS,AUS,Vietnamese,Non-Malaysian citizens
+MYS,AUS,Vlach,Non-Malaysian citizens
+MYS,AUS,Walloon,Non-Malaysian citizens
+MYS,AUS,Welsh,Non-Malaysian citizens
+MYS,AUS,"Western European, nec (incl. Alsatian, Frisian, Luxembourgish)",Non-Malaysian citizens
+MYS,AUS,"Western European, nfd",Non-Malaysian citizens
+MYS,AUS,Yazidi,Non-Malaysian citizens
+MYS,AUS,Yemeni,Non-Malaysian citizens
+MYS,AUS,Yoruba,Non-Malaysian citizens
+MYS,AUS,Zambian,Non-Malaysian citizens
+MYS,AUS,Zimbabwean,Non-Malaysian citizens
+MYS,AUS,Zulu,Non-Malaysian citizens
+MYS,BGD,Bagdi,Indian
+MYS,BGD,Banai,Indian
+MYS,BGD,Barman,Indian
+MYS,BGD,Bedia,Indian
+MYS,BGD,Bhuimali,Indian
+MYS,BGD,Bhumij,Indian
+MYS,BGD,Bom,Indian
+MYS,BGD,Boraik/Baraik,Indian
+MYS,BGD,Chak,Indian
+MYS,BGD,Chakma,Indian
+MYS,BGD,Dalu,Indian
+MYS,BGD,Garo,Indian
+MYS,BGD,Gonju,Indian
+MYS,BGD,Gorait,Indian
+MYS,BGD,Gurkha,Indian
+MYS,BGD,Hajong,Indian
+MYS,BGD,Ho,Indian
+MYS,BGD,Hudi,Indian
+MYS,BGD,Kharia/Khadria,Indian
+MYS,BGD,Kharoar/Kheroar,Indian
+MYS,BGD,Khasia/Khasi,Indian
+MYS,BGD,Khiang,Indian
+MYS,BGD,Khumi,Indian
+MYS,BGD,Koch,Indian
+MYS,BGD,Kol,Indian
+MYS,BGD,Kondo,Indian
+MYS,BGD,Kora,Indian
+MYS,BGD,Lohar,Indian
+MYS,BGD,Lusai,Indian
+MYS,BGD,Mahali,Indian
+MYS,BGD,Mahato/Kurmi Mahato/Bedia Mahato,Indian
+MYS,BGD,Malo/Ghasimalo,Indian
+MYS,BGD,Marma,Indian
+MYS,BGD,Monipuri,Indian
+MYS,BGD,Mro,Indian
+MYS,BGD,Munda,Indian
+MYS,BGD,Mushor,Indian
+MYS,BGD,Oraon,Indian
+MYS,BGD,Other,Indian
+MYS,BGD,Pahari/Malpahari,Indian
+MYS,BGD,Pankhoa/Pankho,Indian
+MYS,BGD,Patro,Indian
+MYS,BGD,Rajoar,Indian
+MYS,BGD,Rakhain,Indian
+MYS,BGD,Saontal,Indian
+MYS,BGD,Shobor,Indian
+MYS,BGD,Teli,Indian
+MYS,BGD,Tonchonga,Indian
+MYS,BGD,Tripura,Indian
+MYS,BGD,Turi,Indian
+MYS,BGD,Vil,Indian
+MYS,BRN,Chinese,Chinese
+MYS,BRN,Indigenous,Malay
+MYS,BRN,Malay,Malay
+MYS,BRN,Other,Malay
+MYS,CHN,Achang,Chinese
+MYS,CHN,Bai,Chinese
+MYS,CHN,Blang,Chinese
+MYS,CHN,Bonan,Chinese
+MYS,CHN,Bouyei,Chinese
+MYS,CHN,Dai,Chinese
+MYS,CHN,Daur,Chinese
+MYS,CHN,Deang,Chinese
+MYS,CHN,Dong,Chinese
+MYS,CHN,Dongxiang,Chinese
+MYS,CHN,Drung,Chinese
+MYS,CHN,Ewenki,Chinese
+MYS,CHN,Foreigners,Chinese
+MYS,CHN,Gaoshan,Chinese
+MYS,CHN,Gelao,Chinese
+MYS,CHN,Han,Chinese
+MYS,CHN,Hani,Chinese
+MYS,CHN,Hezhen,Chinese
+MYS,CHN,Hui,Chinese
+MYS,CHN,Jing,Chinese
+MYS,CHN,Jingpo,Chinese
+MYS,CHN,Jino,Chinese
+MYS,CHN,Kazak,Chinese
+MYS,CHN,Korean,Chinese
+MYS,CHN,Kyrgyz,Chinese
+MYS,CHN,Lahu,Chinese
+MYS,CHN,Lhoba,Chinese
+MYS,CHN,Li,Chinese
+MYS,CHN,Lisu,Chinese
+MYS,CHN,Manchu,Chinese
+MYS,CHN,Maonan,Chinese
+MYS,CHN,Miao,Chinese
+MYS,CHN,Monba,Chinese
+MYS,CHN,Mongol,Chinese
+MYS,CHN,Mulam,Chinese
+MYS,CHN,Naxi,Chinese
+MYS,CHN,Nu,Chinese
+MYS,CHN,Orogen,Chinese
+MYS,CHN,Other,Chinese
+MYS,CHN,Pumi,Chinese
+MYS,CHN,Qiang,Chinese
+MYS,CHN,Russian,Chinese
+MYS,CHN,Salar,Chinese
+MYS,CHN,She,Chinese
+MYS,CHN,Shui,Chinese
+MYS,CHN,Tajik,Chinese
+MYS,CHN,Tatar,Chinese
+MYS,CHN,Tibetan,Chinese
+MYS,CHN,Tu,Chinese
+MYS,CHN,Tujia,Chinese
+MYS,CHN,Unknown,Chinese
+MYS,CHN,Uyghur,Chinese
+MYS,CHN,Uzbek,Chinese
+MYS,CHN,Va,Chinese
+MYS,CHN,Xibe,Chinese
+MYS,CHN,Yao,Chinese
+MYS,CHN,Yi,Chinese
+MYS,CHN,Yugur,Chinese
+MYS,CHN,Zhuang,Chinese
+MYS,GBR,Asians,Non-Malaysian citizens
+MYS,GBR,Bangladeshi,Non-Malaysian citizens
+MYS,GBR,Black,Non-Malaysian citizens
+MYS,GBR,Black Caribbean,Non-Malaysian citizens
+MYS,GBR,Black Other,Non-Malaysian citizens
+MYS,GBR,Chinese,Chinese
+MYS,GBR,Indian,Indian
+MYS,GBR,Other,Non-Malaysian citizens
+MYS,GBR,Pakistani,Non-Malaysian citizens
+MYS,GBR,White,Non-Malaysian citizens
+MYS,IDN,"Banjar, Melayu Banjar",Malay
+MYS,IDN,Banten,Non-Malaysian citizens
+MYS,IDN,Betawi,Non-Malaysian citizens
+MYS,IDN,"Bugis, Ugi",Non-Malaysian citizens
+MYS,IDN,Jawa,Non-Malaysian citizens
+MYS,IDN,Madura,Non-Malaysian citizens
+MYS,IDN,Minangkabau,Non-Malaysian citizens
+MYS,IDN,Other,Non-Malaysian citizens
+MYS,IDN,"Sunda, Priangan",Non-Malaysian citizens
+MYS,IND,,Non-Malaysian citizens
+MYS,IRN,Afgan,Non-Malaysian citizens
+MYS,IRN,Iranian,Non-Malaysian citizens
+MYS,IRN,Iraqi,Non-Malaysian citizens
+MYS,IRN,Not Stated,Non-Malaysian citizens
+MYS,IRN,Other,Non-Malaysian citizens
+MYS,IRN,Pakistani,Non-Malaysian citizens
+MYS,IRN,Turkish,Non-Malaysian citizens
+MYS,IRQ,,Non-Malaysian citizens
+MYS,JPN,,Non-Malaysian citizens
+MYS,KOR,,Non-Malaysian citizens
+MYS,LKA,Bharatha,Indian
+MYS,LKA,Burgher,Indian
+MYS,LKA,Indian Tamil,Indian
+MYS,LKA,Malay,Malay
+MYS,LKA,Other,Indian
+MYS,LKA,Sinhalese,Indian
+MYS,LKA,Sri Lanka Chetty,Indian
+MYS,LKA,Sri Lanka Moor,Indian
+MYS,LKA,Sri Lanka Tamil,Indian
+MYS,MMR,,Non-Malaysian citizens
+MYS,NPL,Aathpahariya,Indian
+MYS,NPL,Adibas/Janajati,Indian
+MYS,NPL,Amat,Indian
+MYS,NPL,Badhae,Indian
+MYS,NPL,Badi,Indian
+MYS,NPL,Bahing,Indian
+MYS,NPL,Bania,Indian
+MYS,NPL,Baniyan,Indian
+MYS,NPL,Bankariya,Indian
+MYS,NPL,Bantar,Indian
+MYS,NPL,Bantar/Sardar,Indian
+MYS,NPL,Bantawa,Indian
+MYS,NPL,Barae,Indian
+MYS,NPL,Beldar,Indian
+MYS,NPL,Bengali,Indian
+MYS,NPL,Bhediya/Gaderi,Indian
+MYS,NPL,Bhote,Indian
+MYS,NPL,Bhote Sherpa,Indian
+MYS,NPL,Bhumihar,Indian
+MYS,NPL,Bing/Binda,Indian
+MYS,NPL,Bishwokarma,Indian
+MYS,NPL,Bote,Indian
+MYS,NPL,Brahman (Terai),Indian
+MYS,NPL,Brahman (hill),Indian
+MYS,NPL,Brahmu/Baramu,Indian
+MYS,NPL,Buryat-Bouriates,Indian
+MYS,NPL,Byasi/Sauka,Indian
+MYS,NPL,Chai/Khulaut,Indian
+MYS,NPL,Chamar,Indian
+MYS,NPL,Chamar/Harijan/Ram,Indian
+MYS,NPL,Chamling,Indian
+MYS,NPL,Chepang,Indian
+MYS,NPL,Chepang/Praja,Indian
+MYS,NPL,Chhantel,Indian
+MYS,NPL,Chhantyal/Chhantel,Indian
+MYS,NPL,Chhetri,Indian
+MYS,NPL,Chidmiar,Indian
+MYS,NPL,Chumba/Nubri,Indian
+MYS,NPL,Churoute,Indian
+MYS,NPL,Dalit/Unidentified Dalit,Indian
+MYS,NPL,Damai,Indian
+MYS,NPL,Danuwar,Indian
+MYS,NPL,Darai,Indian
+MYS,NPL,Dev,Indian
+MYS,NPL,Dhagar/Jhagar,Indian
+MYS,NPL,Dhandi,Indian
+MYS,NPL,Dhankar/ Dharikar,Indian
+MYS,NPL,Dhanuk,Indian
+MYS,NPL,Dhimai,Indian
+MYS,NPL,Dhobi,Indian
+MYS,NPL,Dhunia,Indian
+MYS,NPL,Dhusadh,Indian
+MYS,NPL,Dolpo,Indian
+MYS,NPL,Dom,Indian
+MYS,NPL,Done,Indian
+MYS,NPL,Dura,Indian
+MYS,NPL,Gaine,Indian
+MYS,NPL,Gangain,Indian
+MYS,NPL,Ghale,Indian
+MYS,NPL,Ghart/bhujel,Indian
+MYS,NPL,Gharti/Bhujel,Indian
+MYS,NPL,Gondh/Gond,Indian
+MYS,NPL,Gurung,Indian
+MYS,NPL,Hajam/Thakur,Indian
+MYS,NPL,Halkhor,Indian
+MYS,NPL,Haluwai,Indian
+MYS,NPL,Hayu,Indian
+MYS,NPL,Hyolmo/Yholmopa,Indian
+MYS,NPL,Jaine,Indian
+MYS,NPL,Jirel,Indian
+MYS,NPL,Kahar,Indian
+MYS,NPL,Kalar,Indian
+MYS,NPL,Kalwar,Indian
+MYS,NPL,Kamar,Indian
+MYS,NPL,Kami,Indian
+MYS,NPL,Kanu,Indian
+MYS,NPL,Karmarong,Indian
+MYS,NPL,Kathabaniyan,Indian
+MYS,NPL,Kayastha,Indian
+MYS,NPL,Kewarat,Indian
+MYS,NPL,Kewat,Indian
+MYS,NPL,Khaling,Indian
+MYS,NPL,Khatik,Indian
+MYS,NPL,Khatway,Indian
+MYS,NPL,Khatwe,Indian
+MYS,NPL,Khawas,Indian
+MYS,NPL,Kisan,Indian
+MYS,NPL,Koche,Indian
+MYS,NPL,Koiri,Indian
+MYS,NPL,Koiri/Kushwaha,Indian
+MYS,NPL,Kshetri,Indian
+MYS,NPL,Kulung,Indian
+MYS,NPL,Kumal,Indian
+MYS,NPL,Kumhar,Indian
+MYS,NPL,Kurmi,Indian
+MYS,NPL,Kusunda,Indian
+MYS,NPL,Lepcha,Indian
+MYS,NPL,Lhomi,Indian
+MYS,NPL,Lhopa,Indian
+MYS,NPL,Limbu,Indian
+MYS,NPL,Lodha,Indian
+MYS,NPL,Lohar,Indian
+MYS,NPL,Loharung,Indian
+MYS,NPL,Magar,Indian
+MYS,NPL,Majhi,Indian
+MYS,NPL,Mali,Indian
+MYS,NPL,Mallah,Indian
+MYS,NPL,Marwadi,Indian
+MYS,NPL,Meche,Indian
+MYS,NPL,Mewahang,Indian
+MYS,NPL,Mijar,Indian
+MYS,NPL,Moslem,Indian
+MYS,NPL,Mugal/Mugum,Indian
+MYS,NPL,Munda,Indian
+MYS,NPL,Musahar,Indian
+MYS,NPL,Musalman,Indian
+MYS,NPL,Nachhiring,Indian
+MYS,NPL,Natuwa,Indian
+MYS,NPL,Newari,Indian
+MYS,NPL,Nunia,Indian
+MYS,NPL,Nurang,Indian
+MYS,NPL,Oraon/Kudukh,Indian
+MYS,NPL,Other,Indian
+MYS,NPL,Pahari,Indian
+MYS,NPL,Pariyar,Indian
+MYS,NPL,Patharkata/Kuswadiya,Indian
+MYS,NPL,Patharkatt/ Kushwadiya,Indian
+MYS,NPL,Phree,Indian
+MYS,NPL,Pun,Indian
+MYS,NPL,Rai,Indian
+MYS,NPL,Raikirati,Indian
+MYS,NPL,Rajbansi,Indian
+MYS,NPL,Rajbhar,Indian
+MYS,NPL,Rajdhob,Indian
+MYS,NPL,Raji,Indian
+MYS,NPL,Rajput,Indian
+MYS,NPL,Ranatharu,Indian
+MYS,NPL,Rauniyar,Indian
+MYS,NPL,Raute,Indian
+MYS,NPL,Sampang,Indian
+MYS,NPL,Santha/satar,Indian
+MYS,NPL,Sanyasi,Indian
+MYS,NPL,Sarbaria,Indian
+MYS,NPL,Sarki,Indian
+MYS,NPL,Sherpa,Indian
+MYS,NPL,Sikh,Indian
+MYS,NPL,Sonar,Indian
+MYS,NPL,Sudhi,Indian
+MYS,NPL,Sundi,Indian
+MYS,NPL,Sunuwari,Indian
+MYS,NPL,Surel,Indian
+MYS,NPL,Tajpuriya,Indian
+MYS,NPL,Tamang,Indian
+MYS,NPL,Tatma,Indian
+MYS,NPL,Teli,Indian
+MYS,NPL,Thakali,Indian
+MYS,NPL,Thakkuri,Indian
+MYS,NPL,Thami,Indian
+MYS,NPL,Tharu,Indian
+MYS,NPL,Thulung,Indian
+MYS,NPL,Topkegola,Indian
+MYS,NPL,Unknown,Indian
+MYS,NPL,Walung,Indian
+MYS,NPL,Yadav,Indian
+MYS,NPL,Yakkha,Indian
+MYS,NPL,Yamphu,Indian
+MYS,NPL,Yehlmo,Indian
+MYS,NZL,Afgan,Non-Malaysian citizens
+MYS,NZL,African,Non-Malaysian citizens
+MYS,NZL,African American,Non-Malaysian citizens
+MYS,NZL,African nfd,Non-Malaysian citizens
+MYS,NZL,Afrikaner,Non-Malaysian citizens
+MYS,NZL,Aitutaki Islander,Non-Malaysian citizens
+MYS,NZL,Albanian,Non-Malaysian citizens
+MYS,NZL,Algerian,Non-Malaysian citizens
+MYS,NZL,American,Non-Malaysian citizens
+MYS,NZL,Anglo-Indian,Indian
+MYS,NZL,Arab,Non-Malaysian citizens
+MYS,NZL,Argentinean,Non-Malaysian citizens
+MYS,NZL,Armenian,Non-Malaysian citizens
+MYS,NZL,Asian nfd,Non-Malaysian citizens
+MYS,NZL,Assyrian,Non-Malaysian citizens
+MYS,NZL,Atiu Islander,Non-Malaysian citizens
+MYS,NZL,Austral Islander,Non-Malaysian citizens
+MYS,NZL,Australian,Non-Malaysian citizens
+MYS,NZL,Australian Aboriginal,Non-Malaysian citizens
+MYS,NZL,Austrian,Non-Malaysian citizens
+MYS,NZL,Bangladeshi,Non-Malaysian citizens
+MYS,NZL,Belau/Palau Islander,Non-Malaysian citizens
+MYS,NZL,Belgian,Non-Malaysian citizens
+MYS,NZL,Bengali,Indian
+MYS,NZL,Bhutanese,Non-Malaysian citizens
+MYS,NZL,Black,Non-Malaysian citizens
+MYS,NZL,Bolivian,Non-Malaysian citizens
+MYS,NZL,Bosnian,Non-Malaysian citizens
+MYS,NZL,Bougainvillean,Non-Malaysian citizens
+MYS,NZL,Brazil,Non-Malaysian citizens
+MYS,NZL,British NEC,Non-Malaysian citizens
+MYS,NZL,British nfd,Non-Malaysian citizens
+MYS,NZL,Bulgarian,Non-Malaysian citizens
+MYS,NZL,Burgher,Non-Malaysian citizens
+MYS,NZL,Burmese,Non-Malaysian citizens
+MYS,NZL,Burundian,Non-Malaysian citizens
+MYS,NZL,Byelorussian,Non-Malaysian citizens
+MYS,NZL,Cambodian,Non-Malaysian citizens
+MYS,NZL,Canadian,Non-Malaysian citizens
+MYS,NZL,Caribbean,Non-Malaysian citizens
+MYS,NZL,Carolinian,Non-Malaysian citizens
+MYS,NZL,Celtic,Non-Malaysian citizens
+MYS,NZL,Central American Indian,Non-Malaysian citizens
+MYS,NZL,Channel Islander,Non-Malaysian citizens
+MYS,NZL,Chilean,Non-Malaysian citizens
+MYS,NZL,Chinese,Chinese
+MYS,NZL,Chinese nec,Chinese
+MYS,NZL,Chinese nfd,Chinese
+MYS,NZL,Colombian,Non-Malaysian citizens
+MYS,NZL,Congo,Non-Malaysian citizens
+MYS,NZL,Cook Island Maori,Non-Malaysian citizens
+MYS,NZL,Cornish,Non-Malaysian citizens
+MYS,NZL,Corsican,Non-Malaysian citizens
+MYS,NZL,Costa Rican,Non-Malaysian citizens
+MYS,NZL,Creole,Non-Malaysian citizens
+MYS,NZL,Croat/Croatian,Non-Malaysian citizens
+MYS,NZL,Cypriot,Non-Malaysian citizens
+MYS,NZL,Czech,Non-Malaysian citizens
+MYS,NZL,Dalmatian,Non-Malaysian citizens
+MYS,NZL,Danish,Non-Malaysian citizens
+MYS,NZL,Dutch,Non-Malaysian citizens
+MYS,NZL,Easter Islander,Non-Malaysian citizens
+MYS,NZL,Ecuadorian,Non-Malaysian citizens
+MYS,NZL,Egyptian,Non-Malaysian citizens
+MYS,NZL,English,Non-Malaysian citizens
+MYS,NZL,Eritrean,Non-Malaysian citizens
+MYS,NZL,Estonian,Non-Malaysian citizens
+MYS,NZL,Ethiopian,Non-Malaysian citizens
+MYS,NZL,Eurasian,Non-Malaysian citizens
+MYS,NZL,European,Non-Malaysian citizens
+MYS,NZL,European nec,Non-Malaysian citizens
+MYS,NZL,European nfd,Non-Malaysian citizens
+MYS,NZL,Falkland Islander/Kelper,Non-Malaysian citizens
+MYS,NZL,Fijian,Non-Malaysian citizens
+MYS,NZL,Fijian (except Fiji Indian/Indo-Fijian),Indian
+MYS,NZL,Fijian Indian/Indo-Fijian,Indian
+MYS,NZL,Filipino,Non-Malaysian citizens
+MYS,NZL,Finnish,Non-Malaysian citizens
+MYS,NZL,Flemish,Non-Malaysian citizens
+MYS,NZL,French,Non-Malaysian citizens
+MYS,NZL,Gaelic,Non-Malaysian citizens
+MYS,NZL,Gambier Islander,Non-Malaysian citizens
+MYS,NZL,German,Non-Malaysian citizens
+MYS,NZL,Ghanaian,Non-Malaysian citizens
+MYS,NZL,Greek,Non-Malaysian citizens
+MYS,NZL,Greenlander,Non-Malaysian citizens
+MYS,NZL,Guam Islander/Chamorro,Non-Malaysian citizens
+MYS,NZL,Guatemalan,Non-Malaysian citizens
+MYS,NZL,Gujarati,Indian
+MYS,NZL,Guyanese,Non-Malaysian citizens
+MYS,NZL,Hawaiian,Non-Malaysian citizens
+MYS,NZL,Honduran,Non-Malaysian citizens
+MYS,NZL,Hong Kong Chinese,Chinese
+MYS,NZL,Hungarian,Non-Malaysian citizens
+MYS,NZL,Icelandic,Non-Malaysian citizens
+MYS,NZL,Indian,Indian
+MYS,NZL,Indian Tamil,Indian
+MYS,NZL,Indian ndf,Indian
+MYS,NZL,Indian nec,Indian
+MYS,NZL,Indigenous,Non-Malaysian citizens
+MYS,NZL,Indonesian,Non-Malaysian citizens
+MYS,NZL,Inuit,Non-Malaysian citizens
+MYS,NZL,Iranian,Non-Malaysian citizens
+MYS,NZL,Iraqi,Non-Malaysian citizens
+MYS,NZL,Irish,Non-Malaysian citizens
+MYS,NZL,Israelis,Non-Malaysian citizens
+MYS,NZL,Italian,Non-Malaysian citizens
+MYS,NZL,Jamaican,Non-Malaysian citizens
+MYS,NZL,Japanese,Non-Malaysian citizens
+MYS,NZL,Jordanian,Non-Malaysian citizens
+MYS,NZL,Kampuchean Chinese,Non-Malaysian citizens
+MYS,NZL,Kanaka/Kanak,Non-Malaysian citizens
+MYS,NZL,Karen,Non-Malaysian citizens
+MYS,NZL,Kenyan,Non-Malaysian citizens
+MYS,NZL,Kiribati,Non-Malaysian citizens
+MYS,NZL,Korean,Non-Malaysian citizens
+MYS,NZL,Kurd,Non-Malaysian citizens
+MYS,NZL,Lao,Non-Malaysian citizens
+MYS,NZL,Latin American/Hispanic nec,Non-Malaysian citizens
+MYS,NZL,Latin American/Hispanic nfd,Non-Malaysian citizens
+MYS,NZL,Latvian,Non-Malaysian citizens
+MYS,NZL,Lebanese,Non-Malaysian citizens
+MYS,NZL,Libyan,Non-Malaysian citizens
+MYS,NZL,Lithuanian,Non-Malaysian citizens
+MYS,NZL,Macedonian,Non-Malaysian citizens
+MYS,NZL,Malaitian,Non-Malaysian citizens
+MYS,NZL,Malay,Malay
+MYS,NZL,Malaysian Chinese,Chinese
+MYS,NZL,Maldivian,Non-Malaysian citizens
+MYS,NZL,Maltese,Non-Malaysian citizens
+MYS,NZL,Malvinian (Spanish-speaking Falkland Islander),Non-Malaysian citizens
+MYS,NZL,Mangaia Islander,Non-Malaysian citizens
+MYS,NZL,Manihiki Islander,Non-Malaysian citizens
+MYS,NZL,Manus Islander,Non-Malaysian citizens
+MYS,NZL,Manx,Non-Malaysian citizens
+MYS,NZL,Maori,Non-Malaysian citizens
+MYS,NZL,Marianas Islander,Non-Malaysian citizens
+MYS,NZL,Marquesas Islander,Non-Malaysian citizens
+MYS,NZL,Marshallese,Non-Malaysian citizens
+MYS,NZL,Mauke Islander,Non-Malaysian citizens
+MYS,NZL,Mauritian,Non-Malaysian citizens
+MYS,NZL,Mexican,Non-Malaysian citizens
+MYS,NZL,Middle Eastern nec,Non-Malaysian citizens
+MYS,NZL,Middle Eastern nfd,Non-Malaysian citizens
+MYS,NZL,Mongol,Non-Malaysian citizens
+MYS,NZL,Moroccan,Non-Malaysian citizens
+MYS,NZL,Nauru,Non-Malaysian citizens
+MYS,NZL,Nepalese,Non-Malaysian citizens
+MYS,NZL,New Britain Islander,Non-Malaysian citizens
+MYS,NZL,New Caledonian,Non-Malaysian citizens
+MYS,NZL,New Zealand,Non-Malaysian citizens
+MYS,NZL,New Zealand European,Non-Malaysian citizens
+MYS,NZL,New Zealand Maori,Non-Malaysian citizens
+MYS,NZL,Ni-Vanuatu,Non-Malaysian citizens
+MYS,NZL,Nicaraguan,Non-Malaysian citizens
+MYS,NZL,Nigerian,Non-Malaysian citizens
+MYS,NZL,Niuean,Non-Malaysian citizens
+MYS,NZL,North American Indian,Non-Malaysian citizens
+MYS,NZL,Norwegian,Non-Malaysian citizens
+MYS,NZL,Ocean Islander/Banaban,Non-Malaysian citizens
+MYS,NZL,Omani,Non-Malaysian citizens
+MYS,NZL,Orkney Islander,Non-Malaysian citizens
+MYS,NZL,Other,Non-Malaysian citizens
+MYS,NZL,Other African,Non-Malaysian citizens
+MYS,NZL,Other African nec,Non-Malaysian citizens
+MYS,NZL,Other Asian nec,Non-Malaysian citizens
+MYS,NZL,Other Asiatic,Non-Malaysian citizens
+MYS,NZL,Other European,Non-Malaysian citizens
+MYS,NZL,Other European nfd,Non-Malaysian citizens
+MYS,NZL,Other Pacific Islander,Non-Malaysian citizens
+MYS,NZL,Other Southeast Asian nec,Non-Malaysian citizens
+MYS,NZL,Other nec,Non-Malaysian citizens
+MYS,NZL,Other nfd,Non-Malaysian citizens
+MYS,NZL,Pacific people nfd,Non-Malaysian citizens
+MYS,NZL,Pakistani,Non-Malaysian citizens
+MYS,NZL,Palestinian,Non-Malaysian citizens
+MYS,NZL,Palmerston Islander,Non-Malaysian citizens
+MYS,NZL,Panamanian,Non-Malaysian citizens
+MYS,NZL,Papuan/New Guinean/Irian Jayan,Non-Malaysian citizens
+MYS,NZL,Paraguayan,Non-Malaysian citizens
+MYS,NZL,Penrhyn Islander,Non-Malaysian citizens
+MYS,NZL,Peruvian,Non-Malaysian citizens
+MYS,NZL,Phoenix Islander,Non-Malaysian citizens
+MYS,NZL,Pitcairn Islander,Non-Malaysian citizens
+MYS,NZL,Polish,Non-Malaysian citizens
+MYS,NZL,Portuguese,Non-Malaysian citizens
+MYS,NZL,Puerto Rican,Non-Malaysian citizens
+MYS,NZL,Pukapuka Islander,Non-Malaysian citizens
+MYS,NZL,Punjabi,Indian
+MYS,NZL,Rarotongan,Non-Malaysian citizens
+MYS,NZL,Romani (Gypsy),Non-Malaysian citizens
+MYS,NZL,Romanian,Non-Malaysian citizens
+MYS,NZL,Rotuman,Non-Malaysian citizens
+MYS,NZL,Russian,Non-Malaysian citizens
+MYS,NZL,Samoan,Non-Malaysian citizens
+MYS,NZL,Sardinian,Non-Malaysian citizens
+MYS,NZL,Scottish,Non-Malaysian citizens
+MYS,NZL,Serbian,Non-Malaysian citizens
+MYS,NZL,Seychellois,Non-Malaysian citizens
+MYS,NZL,Shetland Islander,Non-Malaysian citizens
+MYS,NZL,Sikh,Indian
+MYS,NZL,Singaporean Chinese,Non-Malaysian citizens
+MYS,NZL,Sinhalese,Non-Malaysian citizens
+MYS,NZL,Slavic,Non-Malaysian citizens
+MYS,NZL,Slovak,Non-Malaysian citizens
+MYS,NZL,Slovenian,Non-Malaysian citizens
+MYS,NZL,Society Islander (including Tahitian),Non-Malaysian citizens
+MYS,NZL,Solomon Islander,Non-Malaysian citizens
+MYS,NZL,Somalie,Non-Malaysian citizens
+MYS,NZL,South African,Non-Malaysian citizens
+MYS,NZL,South American Indian,Non-Malaysian citizens
+MYS,NZL,South Slav (formerly Yugoslav groups) nfd,Non-Malaysian citizens
+MYS,NZL,South Slav (formerly Yugoslav) nec,Non-Malaysian citizens
+MYS,NZL,Southeast Asian nfd,Non-Malaysian citizens
+MYS,NZL,Spanish,Non-Malaysian citizens
+MYS,NZL,Sri Lanka Tamil,Indian
+MYS,NZL,Sri Lankan,Non-Malaysian citizens
+MYS,NZL,Sri Lankan nfd,Non-Malaysian citizens
+MYS,NZL,Sudanese,Non-Malaysian citizens
+MYS,NZL,Swedish,Non-Malaysian citizens
+MYS,NZL,Swiss,Non-Malaysian citizens
+MYS,NZL,Syrian,Non-Malaysian citizens
+MYS,NZL,Tahitian,Non-Malaysian citizens
+MYS,NZL,Taiwanese,Non-Malaysian citizens
+MYS,NZL,Taiwanese Chinese,Chinese
+MYS,NZL,Tamil,Indian
+MYS,NZL,Thai,Non-Malaysian citizens
+MYS,NZL,Tibetan,Non-Malaysian citizens
+MYS,NZL,Tokelauan,Non-Malaysian citizens
+MYS,NZL,Tongan,Non-Malaysian citizens
+MYS,NZL,Torres Strait Islander,Non-Malaysian citizens
+MYS,NZL,Tunisian,Non-Malaysian citizens
+MYS,NZL,Turkish,Non-Malaysian citizens
+MYS,NZL,Tuvaluan,Non-Malaysian citizens
+MYS,NZL,Ugandan,Non-Malaysian citizens
+MYS,NZL,Ukrainian,Non-Malaysian citizens
+MYS,NZL,Uruguayan,Non-Malaysian citizens
+MYS,NZL,Vanuatu,Non-Malaysian citizens
+MYS,NZL,Venezuelan,Non-Malaysian citizens
+MYS,NZL,Vietnamese,Non-Malaysian citizens
+MYS,NZL,Vietnamese Chinese,Non-Malaysian citizens
+MYS,NZL,Wallisian,Non-Malaysian citizens
+MYS,NZL,Welsh,Non-Malaysian citizens
+MYS,NZL,Welsh-Gallois,Non-Malaysian citizens
+MYS,NZL,West Indian/Caribbean,Indian
+MYS,NZL,Yemeni,Non-Malaysian citizens
+MYS,NZL,Zambian,Non-Malaysian citizens
+MYS,NZL,Zimbabwean,Non-Malaysian citizens
+MYS,PAK,,Non-Malaysian citizens
+MYS,PHL,Abelling,Non-Malaysian citizens
+MYS,PHL,Abiyan,Non-Malaysian citizens
+MYS,PHL,Aburlin,Non-Malaysian citizens
+MYS,PHL,Aeta,Non-Malaysian citizens
+MYS,PHL,Aeta/Ayta,Non-Malaysian citizens
+MYS,PHL,Aeta/Ayta-Sambal,Non-Malaysian citizens
+MYS,PHL,Afgan,Non-Malaysian citizens
+MYS,PHL,Aggay,Non-Malaysian citizens
+MYS,PHL,Agta,Non-Malaysian citizens
+MYS,PHL,Agutaynon,Non-Malaysian citizens
+MYS,PHL,Akeanon/Aklanon,Non-Malaysian citizens
+MYS,PHL,Alangan,Non-Malaysian citizens
+MYS,PHL,Alta,Non-Malaysian citizens
+MYS,PHL,American,Non-Malaysian citizens
+MYS,PHL,Apayao/Yapayao,Non-Malaysian citizens
+MYS,PHL,Applai,Non-Malaysian citizens
+MYS,PHL,Aromanen-Manobo/Eromanen,Non-Malaysian citizens
+MYS,PHL,Aromanen-Manobo/Eromanen-Manobo,Non-Malaysian citizens
+MYS,PHL,Ata,Non-Malaysian citizens
+MYS,PHL,Ati,Non-Malaysian citizens
+MYS,PHL,Atta/Ata/Ati,Non-Malaysian citizens
+MYS,PHL,Australian,Non-Malaysian citizens
+MYS,PHL,Ayangan,Non-Malaysian citizens
+MYS,PHL,Badjao,Non-Malaysian citizens
+MYS,PHL,"Badjao, Sama Dilaut            ",Non-Malaysian citizens
+MYS,PHL,Bago,Non-Malaysian citizens
+MYS,PHL,Bagobo,Non-Malaysian citizens
+MYS,PHL,Bagobo Klata,Non-Malaysian citizens
+MYS,PHL,Bagobo Tagabawa,Non-Malaysian citizens
+MYS,PHL,Bagobo/Guinga,Non-Malaysian citizens
+MYS,PHL,Bajaus,Non-Malaysian citizens
+MYS,PHL,Balangao/Baliwon,Non-Malaysian citizens
+MYS,PHL,Baliwon-Gaddang,Non-Malaysian citizens
+MYS,PHL,Bantoanon,Non-Malaysian citizens
+MYS,PHL,Banwaon,Non-Malaysian citizens
+MYS,PHL,Batak/Binatak,Non-Malaysian citizens
+MYS,PHL,Batangan,Non-Malaysian citizens
+MYS,PHL,Bikol/Bicol,Non-Malaysian citizens
+MYS,PHL,Bilaan/B'laan,Non-Malaysian citizens
+MYS,PHL,Binukid/Bukidnon,Non-Malaysian citizens
+MYS,PHL,Bisaya/Binisaya,Non-Malaysian citizens
+MYS,PHL,Boholano,Non-Malaysian citizens
+MYS,PHL,Bolinao,Non-Malaysian citizens
+MYS,PHL,Bontok/Binontok,Non-Malaysian citizens
+MYS,PHL,British,Non-Malaysian citizens
+MYS,PHL,Bugkalot,Non-Malaysian citizens
+MYS,PHL,Buhid,Non-Malaysian citizens
+MYS,PHL,Bukidnon-Akeanon,Non-Malaysian citizens
+MYS,PHL,Bukidnon-Iraynon,Non-Malaysian citizens
+MYS,PHL,Butuanon,Non-Malaysian citizens
+MYS,PHL,Cagayanen,Non-Malaysian citizens
+MYS,PHL,Calinga,Non-Malaysian citizens
+MYS,PHL,Canadian,Non-Malaysian citizens
+MYS,PHL,Capizeño,Non-Malaysian citizens
+MYS,PHL,Caviteño,Non-Malaysian citizens
+MYS,PHL,Caviteño-Chavacano,Non-Malaysian citizens
+MYS,PHL,Cebuano,Non-Malaysian citizens
+MYS,PHL,Chinese,Chinese
+MYS,PHL,Cimaron,Non-Malaysian citizens
+MYS,PHL,Cotabateño,Non-Malaysian citizens
+MYS,PHL,Cotabateño-Chavacano,Non-Malaysian citizens
+MYS,PHL,Cuyunon/Cuyunan,Non-Malaysian citizens
+MYS,PHL,Davao-Chavacano,Non-Malaysian citizens
+MYS,PHL,Davaweño,Non-Malaysian citizens
+MYS,PHL,Diangan,Non-Malaysian citizens
+MYS,PHL,Dibabawon,Non-Malaysian citizens
+MYS,PHL,Dumagat (Umiray),Non-Malaysian citizens
+MYS,PHL,Dumagat-Remontado,Non-Malaysian citizens
+MYS,PHL,Eskaya,Non-Malaysian citizens
+MYS,PHL,French,Non-Malaysian citizens
+MYS,PHL,Gaddang,Non-Malaysian citizens
+MYS,PHL,German,Non-Malaysian citizens
+MYS,PHL,Gubatnon,Non-Malaysian citizens
+MYS,PHL,Guiangan,Non-Malaysian citizens
+MYS,PHL,Hamtikanon,Non-Malaysian citizens
+MYS,PHL,Hanunuo,Non-Malaysian citizens
+MYS,PHL,Higaonon,Non-Malaysian citizens
+MYS,PHL,Higaonon-Tagoloanon,Non-Malaysian citizens
+MYS,PHL,"Hiligaynon, ilonggo               ",Non-Malaysian citizens
+MYS,PHL,Ibaloi/Inibaloi,Non-Malaysian citizens
+MYS,PHL,Ibanag,Non-Malaysian citizens
+MYS,PHL,Ibatan,Non-Malaysian citizens
+MYS,PHL,Ibontoc,Non-Malaysian citizens
+MYS,PHL,Ibukid,Non-Malaysian citizens
+MYS,PHL,Ifugao,Non-Malaysian citizens
+MYS,PHL,Ikalahan/Kalanguya,Non-Malaysian citizens
+MYS,PHL,Ilanun,Non-Malaysian citizens
+MYS,PHL,Illaud,Non-Malaysian citizens
+MYS,PHL,Ilocano,Non-Malaysian citizens
+MYS,PHL,Ilongot,Non-Malaysian citizens
+MYS,PHL,Imalawa,Non-Malaysian citizens
+MYS,PHL,Indian (indigenous),Indian
+MYS,PHL,Indonesian,Non-Malaysian citizens
+MYS,PHL,Iranon,Non-Malaysian citizens
+MYS,PHL,Iraya,Non-Malaysian citizens
+MYS,PHL,Isamal Kanlaw,Non-Malaysian citizens
+MYS,PHL,Isarog,Non-Malaysian citizens
+MYS,PHL,Isinay,Non-Malaysian citizens
+MYS,PHL,Isnag,Non-Malaysian citizens
+MYS,PHL,Isneg,Non-Malaysian citizens
+MYS,PHL,Italian,Non-Malaysian citizens
+MYS,PHL,Itawis,Non-Malaysian citizens
+MYS,PHL,Itawit,Non-Malaysian citizens
+MYS,PHL,Itneg,Non-Malaysian citizens
+MYS,PHL,Itneg/Tinguian,Non-Malaysian citizens
+MYS,PHL,Itneg/Tinguian-Adasen,Non-Malaysian citizens
+MYS,PHL,Itneg/Tinguian-Inlaud,Non-Malaysian citizens
+MYS,PHL,Itneg/Tinguian-Maeng,Non-Malaysian citizens
+MYS,PHL,Itneg/Tinguian-Masadiit,Non-Malaysian citizens
+MYS,PHL,Ivatan/Itbayat,Non-Malaysian citizens
+MYS,PHL,Iwak/owak,Non-Malaysian citizens
+MYS,PHL,Iyapplai,Non-Malaysian citizens
+MYS,PHL,Iyiwaks,Non-Malaysian citizens
+MYS,PHL,Japanese,Non-Malaysian citizens
+MYS,PHL,Jawa Mapun,Non-Malaysian citizens
+MYS,PHL,Kaagan,Non-Malaysian citizens
+MYS,PHL,Kabayukan,Non-Malaysian citizens
+MYS,PHL,Kabihug,Non-Malaysian citizens
+MYS,PHL,Kagayanen,Non-Malaysian citizens
+MYS,PHL,Kailawan/Kaylawan,Non-Malaysian citizens
+MYS,PHL,Kalagan,Non-Malaysian citizens
+MYS,PHL,Kalamianen,Non-Malaysian citizens
+MYS,PHL,Kalinga,Non-Malaysian citizens
+MYS,PHL,Kalinga-Lubuagan,Non-Malaysian citizens
+MYS,PHL,Kalinga-Pinukpuk,Non-Malaysian citizens
+MYS,PHL,Kamayo,Non-Malaysian citizens
+MYS,PHL,Kamigin/Kinamiging,Non-Malaysian citizens
+MYS,PHL,Kankaney,Non-Malaysian citizens
+MYS,PHL,Kapampangan,Non-Malaysian citizens
+MYS,PHL,Kapul,Non-Malaysian citizens
+MYS,PHL,Karaga,Non-Malaysian citizens
+MYS,PHL,Karao,Non-Malaysian citizens
+MYS,PHL,Karaya,Non-Malaysian citizens
+MYS,PHL,Karolanos,Non-Malaysian citizens
+MYS,PHL,Kasigurahin,Non-Malaysian citizens
+MYS,PHL,Kaunana,Non-Malaysian citizens
+MYS,PHL,Kinalinga,Non-Malaysian citizens
+MYS,PHL,Kiniraya,Non-Malaysian citizens
+MYS,PHL,Kolibugan/Kalibugan,Non-Malaysian citizens
+MYS,PHL,Korean,Non-Malaysian citizens
+MYS,PHL,Lambanguian,Non-Malaysian citizens
+MYS,PHL,Langi,Non-Malaysian citizens
+MYS,PHL,Ligbuk/Lugbok,Non-Malaysian citizens
+MYS,PHL,Magahats,Non-Malaysian citizens
+MYS,PHL,Magkunana,Non-Malaysian citizens
+MYS,PHL,Maguindanao,Non-Malaysian citizens
+MYS,PHL,Malaueg,Non-Malaysian citizens
+MYS,PHL,Malbog,Non-Malaysian citizens
+MYS,PHL,Mamanwa,Non-Malaysian citizens
+MYS,PHL,Mandaya,Non-Malaysian citizens
+MYS,PHL,Mangguangan,Non-Malaysian citizens
+MYS,PHL,Mangyan,Non-Malaysian citizens
+MYS,PHL,Mangyan-Alangan,Non-Malaysian citizens
+MYS,PHL,Mangyan-Buhid,Non-Malaysian citizens
+MYS,PHL,Mangyan-Hanunuo,Non-Malaysian citizens
+MYS,PHL,Mangyan-Iraya,Non-Malaysian citizens
+MYS,PHL,Manobo-Aromanon,Non-Malaysian citizens
+MYS,PHL,Manobo-Ata,Non-Malaysian citizens
+MYS,PHL,Manobo-Dulangan,Non-Malaysian citizens
+MYS,PHL,Manobo-Pulanguinon,Non-Malaysian citizens
+MYS,PHL,Manobo/Ata-Manobo,Non-Malaysian citizens
+MYS,PHL,Mansaka,Non-Malaysian citizens
+MYS,PHL,Maranao,Non-Malaysian citizens
+MYS,PHL,Masbateño/Masbatenon,Non-Malaysian citizens
+MYS,PHL,Matigsalog,Non-Malaysian citizens
+MYS,PHL,Molbog,Non-Malaysian citizens
+MYS,PHL,Negrito,Non-Malaysian citizens
+MYS,PHL,Nilulubo,Non-Malaysian citizens
+MYS,PHL,Obu-Manuvu,Non-Malaysian citizens
+MYS,PHL,Other Foreign Ethinicity,Non-Malaysian citizens
+MYS,PHL,Other local ethnicity,Non-Malaysian citizens
+MYS,PHL,Palawan-o,Non-Malaysian citizens
+MYS,PHL,Palawan/Pinalawan,Non-Malaysian citizens
+MYS,PHL,Pan-Ayanon,Non-Malaysian citizens
+MYS,PHL,Panay Bukidnon,Non-Malaysian citizens
+MYS,PHL,Pangasinan/Panggalato,Non-Malaysian citizens
+MYS,PHL,Paranan,Non-Malaysian citizens
+MYS,PHL,Pinangal,Non-Malaysian citizens
+MYS,PHL,Ratagnon,Non-Malaysian citizens
+MYS,PHL,Remontado,Non-Malaysian citizens
+MYS,PHL,Romblon,Non-Malaysian citizens
+MYS,PHL,Sama (Samal)/Abaknon,Non-Malaysian citizens
+MYS,PHL,Sama Badjao,Non-Malaysian citizens
+MYS,PHL,Sama Bangengeh,Non-Malaysian citizens
+MYS,PHL,Sama Bangingi,Non-Malaysian citizens
+MYS,PHL,Sama Dilaya,Non-Malaysian citizens
+MYS,PHL,"Sambal, Zambal                                             ",Non-Malaysian citizens
+MYS,PHL,"Sangil, Sangir                                             ",Non-Malaysian citizens
+MYS,PHL,Sibuyan Mangyan-Tagabukid,Non-Malaysian citizens
+MYS,PHL,Singaporean,Non-Malaysian citizens
+MYS,PHL,South African,Non-Malaysian citizens
+MYS,PHL,Spanish,Non-Malaysian citizens
+MYS,PHL,Subanen/Subaben,Non-Malaysian citizens
+MYS,PHL,Sulod,Non-Malaysian citizens
+MYS,PHL,Surigaonon,Non-Malaysian citizens
+MYS,PHL,Swiss,Non-Malaysian citizens
+MYS,PHL,T'boli,Non-Malaysian citizens
+MYS,PHL,Tabangnon,Non-Malaysian citizens
+MYS,PHL,Tadyawan,Non-Malaysian citizens
+MYS,PHL,Tagabawa,Non-Malaysian citizens
+MYS,PHL,Tagabili,Non-Malaysian citizens
+MYS,PHL,Tagakaolo,Non-Malaysian citizens
+MYS,PHL,Tagalog,Non-Malaysian citizens
+MYS,PHL,Tagbanwa,Non-Malaysian citizens
+MYS,PHL,Tagbuaonon,Non-Malaysian citizens
+MYS,PHL,Taiwanese,Non-Malaysian citizens
+MYS,PHL,Talaandig,Non-Malaysian citizens
+MYS,PHL,Talaingod,Non-Malaysian citizens
+MYS,PHL,Tausug,Non-Malaysian citizens
+MYS,PHL,Teduray,Non-Malaysian citizens
+MYS,PHL,Ternateño-Chavacano,Non-Malaysian citizens
+MYS,PHL,Tigwahon,Non-Malaysian citizens
+MYS,PHL,Tinananen,Non-Malaysian citizens
+MYS,PHL,Tinggian,Non-Malaysian citizens
+MYS,PHL,Tiruray,Non-Malaysian citizens
+MYS,PHL,Turkish,Non-Malaysian citizens
+MYS,PHL,Tuwali,Non-Malaysian citizens
+MYS,PHL,Ubo,Non-Malaysian citizens
+MYS,PHL,Umayamnon,Non-Malaysian citizens
+MYS,PHL,Unknown,Non-Malaysian citizens
+MYS,PHL,Waray,Non-Malaysian citizens
+MYS,PHL,Yakan,Non-Malaysian citizens
+MYS,PHL,Yogad,Non-Malaysian citizens
+MYS,PHL,Zamboangeño-Chavacano,Non-Malaysian citizens
+MYS,PSE,Jordanian,Non-Malaysian citizens
+MYS,PSE,Other,Non-Malaysian citizens
+MYS,PSE,Other Arab,Non-Malaysian citizens
+MYS,PSE,Palestinian,Non-Malaysian citizens
+MYS,PSE,Unknown,Non-Malaysian citizens
+MYS,SDN,,Non-Malaysian citizens
+MYS,SGP,Chinese,Chinese
+MYS,SGP,Indian,Indian
+MYS,SGP,Malay,Malay
+MYS,SGP,Other,Non-Malaysian citizens
+MYS,SOM,,Non-Malaysian citizens
+MYS,SYR,,Non-Malaysian citizens
+MYS,THA,Bangladeshi,Non-Malaysian citizens
+MYS,THA,Cambodian,Non-Malaysian citizens
+MYS,THA,Chinese,Chinese
+MYS,THA,Indian,Indian
+MYS,THA,Japanese,Non-Malaysian citizens
+MYS,THA,Korean,Non-Malaysian citizens
+MYS,THA,Laotian,Non-Malaysian citizens
+MYS,THA,Myanmar,Non-Malaysian citizens
+MYS,THA,Nepalese,Non-Malaysian citizens
+MYS,THA,Pakistani,Non-Malaysian citizens
+MYS,THA,Philippine Native,Non-Malaysian citizens
+MYS,THA,Sri Lankan,Non-Malaysian citizens
+MYS,THA,Thai,Non-Malaysian citizens
+MYS,THA,Unknown,Non-Malaysian citizens
+MYS,THA,Vietnamese,Non-Malaysian citizens
+MYS,VNM,Bana,Non-Malaysian citizens
+MYS,VNM,Bo Y,Non-Malaysian citizens
+MYS,VNM,Brau,Non-Malaysian citizens
+MYS,VNM,Bru Van Kieu,Non-Malaysian citizens
+MYS,VNM,Cham,Non-Malaysian citizens
+MYS,VNM,Choro,Non-Malaysian citizens
+MYS,VNM,Churu,Non-Malaysian citizens
+MYS,VNM,Chut,Non-Malaysian citizens
+MYS,VNM,Co,Non-Malaysian citizens
+MYS,VNM,Co Lao,Non-Malaysian citizens
+MYS,VNM,Coho,Non-Malaysian citizens
+MYS,VNM,Cong,Non-Malaysian citizens
+MYS,VNM,Cotu,Non-Malaysian citizens
+MYS,VNM,Dao,Non-Malaysian citizens
+MYS,VNM,Ede,Non-Malaysian citizens
+MYS,VNM,Foreigners,Non-Malaysian citizens
+MYS,VNM,Giarai,Non-Malaysian citizens
+MYS,VNM,Giay,Non-Malaysian citizens
+MYS,VNM,Gie Trieng,Non-Malaysian citizens
+MYS,VNM,Ha Nhi,Non-Malaysian citizens
+MYS,VNM,Hmong,Non-Malaysian citizens
+MYS,VNM,Hoa,Non-Malaysian citizens
+MYS,VNM,Hre,Non-Malaysian citizens
+MYS,VNM,Khang,Non-Malaysian citizens
+MYS,VNM,Khmer,Non-Malaysian citizens
+MYS,VNM,Khome,Non-Malaysian citizens
+MYS,VNM,Khomu,Non-Malaysian citizens
+MYS,VNM,Kinh,Non-Malaysian citizens
+MYS,VNM,La Chi,Non-Malaysian citizens
+MYS,VNM,La Ha,Non-Malaysian citizens
+MYS,VNM,Lahu,Non-Malaysian citizens
+MYS,VNM,Lao,Non-Malaysian citizens
+MYS,VNM,Lolo,Non-Malaysian citizens
+MYS,VNM,Lu,Non-Malaysian citizens
+MYS,VNM,Ma,Non-Malaysian citizens
+MYS,VNM,Mang,Non-Malaysian citizens
+MYS,VNM,Mnong,Non-Malaysian citizens
+MYS,VNM,Muong,Non-Malaysian citizens
+MYS,VNM,Ngai,Non-Malaysian citizens
+MYS,VNM,Not Stated,Non-Malaysian citizens
+MYS,VNM,Nung,Non-Malaysian citizens
+MYS,VNM,O Du,Non-Malaysian citizens
+MYS,VNM,Pa Then,Non-Malaysian citizens
+MYS,VNM,Phu La,Non-Malaysian citizens
+MYS,VNM,Pu Peo,Non-Malaysian citizens
+MYS,VNM,Raglai,Non-Malaysian citizens
+MYS,VNM,Romam,Non-Malaysian citizens
+MYS,VNM,San Chay,Non-Malaysian citizens
+MYS,VNM,San Diu,Non-Malaysian citizens
+MYS,VNM,Si La,Non-Malaysian citizens
+MYS,VNM,Taoi,Non-Malaysian citizens
+MYS,VNM,Tay,Non-Malaysian citizens
+MYS,VNM,Thai,Non-Malaysian citizens
+MYS,VNM,Tho,Non-Malaysian citizens
+MYS,VNM,Xinh mun,Non-Malaysian citizens
+MYS,VNM,Xodan,Non-Malaysian citizens
+MYS,VNM,Xtieng,Non-Malaysian citizens
+MYS,YEM,,Non-Malaysian citizens
+USA,AFG,,Some other race
+USA,ARG,African,Black or African American
+USA,ARG,Indigenous,Some other race
+USA,ARG,Not Stated,Some other race
+USA,BGD,Bagdi,Asian
+USA,BGD,Banai,Asian
+USA,BGD,Barman,Asian
+USA,BGD,Bedia,Asian
+USA,BGD,Bhuimali,Asian
+USA,BGD,Bhumij,Asian
+USA,BGD,Bom,Asian
+USA,BGD,Boraik/Baraik,Asian
+USA,BGD,Chak,Asian
+USA,BGD,Chakma,Asian
+USA,BGD,Dalu,Asian
+USA,BGD,Garo,Asian
+USA,BGD,Gonju,Asian
+USA,BGD,Gorait,Asian
+USA,BGD,Gurkha,Asian
+USA,BGD,Hajong,Asian
+USA,BGD,Ho,Asian
+USA,BGD,Hudi,Asian
+USA,BGD,Kharia/Khadria,Asian
+USA,BGD,Kharoar/Kheroar,Asian
+USA,BGD,Khasia/Khasi,Asian
+USA,BGD,Khiang,Asian
+USA,BGD,Khumi,Asian
+USA,BGD,Koch,Asian
+USA,BGD,Kol,Asian
+USA,BGD,Kondo,Asian
+USA,BGD,Kora,Asian
+USA,BGD,Lohar,Asian
+USA,BGD,Lusai,Asian
+USA,BGD,Mahali,Asian
+USA,BGD,Mahato/Kurmi Mahato/Bedia Mahato,Asian
+USA,BGD,Malo/Ghasimalo,Asian
+USA,BGD,Marma,Asian
+USA,BGD,Monipuri,Asian
+USA,BGD,Mro,Asian
+USA,BGD,Munda,Asian
+USA,BGD,Mushor,Asian
+USA,BGD,Oraon,Asian
+USA,BGD,Other,Asian
+USA,BGD,Pahari/Malpahari,Asian
+USA,BGD,Pankhoa/Pankho,Asian
+USA,BGD,Patro,Asian
+USA,BGD,Rajoar,Asian
+USA,BGD,Rakhain,Asian
+USA,BGD,Saontal,Asian
+USA,BGD,Shobor,Asian
+USA,BGD,Teli,Asian
+USA,BGD,Tonchonga,Asian
+USA,BGD,Tripura,Asian
+USA,BGD,Turi,Asian
+USA,BGD,Vil,Asian
+USA,BRA,Asians,Asian
+USA,BRA,Black,Black or African American
+USA,BRA,Indigenous,Some other race
+USA,BRA,Mulatto,Some other race
+USA,BRA,Unknown,Some other race
+USA,BRA,White,White
+USA,CAN,Aboriginal,Some other race
+USA,CAN,Acadian,Some other race
+USA,CAN,Afgan,Some other race
+USA,CAN,African,Black or African American
+USA,CAN,Akan,Some other race
+USA,CAN,Albanian,Some other race
+USA,CAN,Algerian,Some other race
+USA,CAN,American,Some other race
+USA,CAN,Angolan,Some other race
+USA,CAN,Antiguan,Some other race
+USA,CAN,Arab,Some other race
+USA,CAN,Argentinean,Some other race
+USA,CAN,Armenian,Some other race
+USA,CAN,Ashanti,Some other race
+USA,CAN,Asiatic,Some other race
+USA,CAN,Assyrian,Some other race
+USA,CAN,Australian,Some other race
+USA,CAN,Austrian,Some other race
+USA,CAN,Azerbaijani,Some other race
+USA,CAN,Bahamian,Some other race
+USA,CAN,Bangladeshi,Asian
+USA,CAN,Barbadian,Some other race
+USA,CAN,Basque,Some other race
+USA,CAN,Belgian,Some other race
+USA,CAN,Belizian,Some other race
+USA,CAN,Bengali,Some other race
+USA,CAN,Berber,Some other race
+USA,CAN,Bermudian,Some other race
+USA,CAN,Black,Black or African American
+USA,CAN,Bolivian,Some other race
+USA,CAN,Bosnian,Some other race
+USA,CAN,Brazil,Some other race
+USA,CAN,British,Some other race
+USA,CAN,British and Canadian,Some other race
+USA,CAN,British and French,Some other race
+USA,CAN,British and others,Some other race
+USA,CAN,Bulgarian,Some other race
+USA,CAN,Burmese,Asian
+USA,CAN,Burundian,Black or African
+USA,CAN,Byelorussian,Some other race
+USA,CAN,Cambodian,Asian
+USA,CAN,Cameroonian,Black or African
+USA,CAN,Canadian,Some other race
+USA,CAN,Carib,Some other race
+USA,CAN,Caribbean,Some other race
+USA,CAN,Central/South American Indian,American Indian and Alaska native
+USA,CAN,Chilean,Some other race
+USA,CAN,Chinese,Asian
+USA,CAN,Colombian,Some other race
+USA,CAN,"Congolese, nos",Black or African
+USA,CAN,Costa Rican,Some other race
+USA,CAN,Croatian,Some other race
+USA,CAN,Cubans,Some other race
+USA,CAN,Cypriot,Some other race
+USA,CAN,Czech,Some other race
+USA,CAN,Czech and Slovak,Some other race
+USA,CAN,Czechoslovakian,Some other race
+USA,CAN,Danish,Some other race
+USA,CAN,Dominican,Some other race
+USA,CAN,Dutch,Some other race
+USA,CAN,East African,Black or African American
+USA,CAN,East Indian,Some other race
+USA,CAN,Ecuadorian,Some other race
+USA,CAN,Egyptian,Some other race
+USA,CAN,English,Some other race
+USA,CAN,Eritrean,Some other race
+USA,CAN,Estonian,Some other race
+USA,CAN,Ethiopian,Black or African
+USA,CAN,Fijian,Some other race
+USA,CAN,Filipino,Asian
+USA,CAN,Finnish,Some other race
+USA,CAN,Flemish,Some other race
+USA,CAN,French,Some other race
+USA,CAN,Frisian,Some other race
+USA,CAN,Georgian,Some other race
+USA,CAN,German,Some other race
+USA,CAN,Ghanaian,Black or African
+USA,CAN,Goan,Some other race
+USA,CAN,Greek,Some other race
+USA,CAN,Grenadian,Some other race
+USA,CAN,Guatemalan,Some other race
+USA,CAN,Guinean,Some other race
+USA,CAN,Gujarati,Some other race
+USA,CAN,Guyanese,Some other race
+USA,CAN,Haitian,Some other race
+USA,CAN,Hawaiian,Native Hawaiian and other Pacific Islander
+USA,CAN,Hispanic,Some other race
+USA,CAN,Hmong,Some other race
+USA,CAN,Honduran,Some other race
+USA,CAN,Hungarian,Some other race
+USA,CAN,Ibo,Some other race
+USA,CAN,Icelandic,Some other race
+USA,CAN,Indonesian,Asian
+USA,CAN,Inuit,Some other race
+USA,CAN,Iranian,Some other race
+USA,CAN,Iraqi,Some other race
+USA,CAN,Irish,Some other race
+USA,CAN,Israelis,Some other race
+USA,CAN,Italian,Some other race
+USA,CAN,Ivoirean,Some other race
+USA,CAN,Jamaican,Some other race
+USA,CAN,Japanese,Asian
+USA,CAN,Jewish,Some other race
+USA,CAN,Jordanian,Some other race
+USA,CAN,Kashmiri,Some other race
+USA,CAN,Kenyan,Black or African
+USA,CAN,Khmer,Some other race
+USA,CAN,Kittitian/Nevisian,Some other race
+USA,CAN,Korean,Asian
+USA,CAN,Kosovar,Some other race
+USA,CAN,Kurd,Some other race
+USA,CAN,Kuwaiti,Some other race
+USA,CAN,Laotian,Asian
+USA,CAN,Latin/Central/South American,Some other race
+USA,CAN,Latvian,Some other race
+USA,CAN,Lebanese,Some other race
+USA,CAN,Libyan,Some other race
+USA,CAN,Lithuanian,Some other race
+USA,CAN,Luxembourg,Some other race
+USA,CAN,Macedonian,Some other race
+USA,CAN,Malagas,Some other race
+USA,CAN,Malay,Some other race
+USA,CAN,Malian,Some other race
+USA,CAN,Maltese,Some other race
+USA,CAN,Maori,Some other race
+USA,CAN,Martinique,Some other race
+USA,CAN,Mauritian,Some other race
+USA,CAN,Maya,Some other race
+USA,CAN,Mexican,Some other race
+USA,CAN,Mongol,Some other race
+USA,CAN,Montenegrian,Some other race
+USA,CAN,Moroccan,Some other race
+USA,CAN,Métis,Some other race
+USA,CAN,Nepalese,Some other race
+USA,CAN,New Zealand,Some other race
+USA,CAN,Newfoundlander,Some other race
+USA,CAN,Nicaraguan,Some other race
+USA,CAN,Nigerian,Black or African
+USA,CAN,North American Indian,American Indian and Alaska native
+USA,CAN,Norwegian,Some other race
+USA,CAN,Oromo,Some other race
+USA,CAN,Other,Some other race
+USA,CAN,Other African,Black or African American
+USA,CAN,Other Arab,Some other race
+USA,CAN,Other Asiatic,Some other race
+USA,CAN,Other British,Some other race
+USA,CAN,Other Caribbean,Some other race
+USA,CAN,Other East/Southeast Asian,Asian
+USA,CAN,Other European,White
+USA,CAN,Other Maghrebi,Some other race
+USA,CAN,Other Pacific Islander,Native Hawaiian and other Pacific Islander
+USA,CAN,Other Scandinavian,Some other race
+USA,CAN,Other South Asian,Asian
+USA,CAN,Pacific Islander,Native Hawaiian and other Pacific Islander
+USA,CAN,Pakistani,Asian
+USA,CAN,Palestinian,Some other race
+USA,CAN,Panamanian,Some other race
+USA,CAN,Paraguayan,Some other race
+USA,CAN,Pashtun,Some other race
+USA,CAN,Peruvian,Some other race
+USA,CAN,Polish,Some other race
+USA,CAN,Polynesian,Some other race
+USA,CAN,Portuguese,Some other race
+USA,CAN,Puerto Rican,Some other race
+USA,CAN,Punjabi,Some other race
+USA,CAN,Québécois,Some other race
+USA,CAN,Romani (Gypsy),Some other race
+USA,CAN,Romanian,Some other race
+USA,CAN,Russian,Some other race
+USA,CAN,Rwandan,Black or African
+USA,CAN,Saint Lucia,Some other race
+USA,CAN,Salvadoran,Some other race
+USA,CAN,Saudi Arabian,Some other race
+USA,CAN,Scottish,Some other race
+USA,CAN,Senegalese,Black or African
+USA,CAN,Serbian,Some other race
+USA,CAN,Seychellois,Some other race
+USA,CAN,Sicilian,Some other race
+USA,CAN,Sierra Leonean,Black or African
+USA,CAN,Sinhalese,Some other race
+USA,CAN,Slav (European),White
+USA,CAN,Slovak,Some other race
+USA,CAN,Slovenian,Some other race
+USA,CAN,Somalie,Black or African
+USA,CAN,South African,Black or African American
+USA,CAN,Spanish,Some other race
+USA,CAN,Sri Lankan,Asian
+USA,CAN,Sudanese,Black or African
+USA,CAN,Swedish,Some other race
+USA,CAN,Swiss,Some other race
+USA,CAN,Syrian,Some other race
+USA,CAN,Taiwanese,Some other race
+USA,CAN,Tamil,Some other race
+USA,CAN,Tanzanian,Black or African
+USA,CAN,Tatar,Some other race
+USA,CAN,Thai,Asian
+USA,CAN,Tibetan,Some other race
+USA,CAN,Togolese,Some other race
+USA,CAN,Trinidad and Tobago,Some other race
+USA,CAN,Tunisian,Some other race
+USA,CAN,Turkish,Some other race
+USA,CAN,Turks,Some other race
+USA,CAN,Ugandan,Black or African
+USA,CAN,Ukrainian,Some other race
+USA,CAN,Unknown,Some other race
+USA,CAN,Uruguayan,Some other race
+USA,CAN,Venezuelan,Some other race
+USA,CAN,Vietnamese,Asian
+USA,CAN,Vincentian/Grenadinian,Some other race
+USA,CAN,Welsh,Some other race
+USA,CAN,Welsh-Gallois,Some other race
+USA,CAN,West Asian,Asian
+USA,CAN,West Indian,Some other race
+USA,CAN,Yemeni,Some other race
+USA,CAN,Yoruba,Some other race
+USA,CAN,Yugoslav,Some other race
+USA,CAN,Zairian,Some other race
+USA,CAN,Zimbabwean,Black or African
+USA,CHN,Achang,Asian
+USA,CHN,Bai,Asian
+USA,CHN,Blang,Asian
+USA,CHN,Bonan,Asian
+USA,CHN,Bouyei,Asian
+USA,CHN,Dai,Asian
+USA,CHN,Daur,Asian
+USA,CHN,Deang,Asian
+USA,CHN,Dong,Asian
+USA,CHN,Dongxiang,Asian
+USA,CHN,Drung,Asian
+USA,CHN,Ewenki,Asian
+USA,CHN,Foreigners,Asian
+USA,CHN,Gaoshan,Asian
+USA,CHN,Gelao,Asian
+USA,CHN,Han,Asian
+USA,CHN,Hani,Asian
+USA,CHN,Hezhen,Asian
+USA,CHN,Hui,Asian
+USA,CHN,Jing,Asian
+USA,CHN,Jingpo,Asian
+USA,CHN,Jino,Asian
+USA,CHN,Kazak,Asian
+USA,CHN,Korean,Asian
+USA,CHN,Kyrgyz,Asian
+USA,CHN,Lahu,Asian
+USA,CHN,Lhoba,Asian
+USA,CHN,Li,Asian
+USA,CHN,Lisu,Asian
+USA,CHN,Manchu,Asian
+USA,CHN,Maonan,Asian
+USA,CHN,Miao,Asian
+USA,CHN,Monba,Asian
+USA,CHN,Mongol,Asian
+USA,CHN,Mulam,Asian
+USA,CHN,Naxi,Asian
+USA,CHN,Nu,Asian
+USA,CHN,Orogen,Asian
+USA,CHN,Other,Asian
+USA,CHN,Pumi,Asian
+USA,CHN,Qiang,Asian
+USA,CHN,Russian,Asian
+USA,CHN,Salar,Asian
+USA,CHN,She,Asian
+USA,CHN,Shui,Asian
+USA,CHN,Tajik,Asian
+USA,CHN,Tatar,Asian
+USA,CHN,Tibetan,Asian
+USA,CHN,Tu,Asian
+USA,CHN,Tujia,Asian
+USA,CHN,Unknown,Asian
+USA,CHN,Uyghur,Asian
+USA,CHN,Uzbek,Asian
+USA,CHN,Va,Asian
+USA,CHN,Xibe,Asian
+USA,CHN,Yao,Asian
+USA,CHN,Yi,Asian
+USA,CHN,Yugur,Asian
+USA,CHN,Zhuang,Asian
+USA,COL,Indigenous,Some other race
+USA,COL,"Negro, mulato, afrocolombiano",Some other race
+USA,COL,Other,Some other race
+USA,COL,Palenquero,Some other race
+USA,COL,Raizal de San Andrés y Providencia,Some other race
+USA,COL,Rom,Some other race
+USA,COL,Unknown,Some other race
+USA,CUB,Black,Black or African American
+USA,CUB,Mulatto,Some other race
+USA,CUB,White,White
+USA,DEU,,Some other race
+USA,DOM,,Some other race
+USA,ECU,African,Black or African American
+USA,ECU,Indigenous,Some other race
+USA,ECU,Mestizo,Some other race
+USA,ECU,Montubio,Some other race
+USA,ECU,Other,Some other race
+USA,ECU,White,White
+USA,EGY,Egyptian,Black or African American
+USA,EGY,Foreigners,Black or African American
+USA,ESP,,Some other race
+USA,ETH,Affar,Black or African American
+USA,ETH,Agew/Awingi,Black or African American
+USA,ETH,Agew/Kamyr,Black or African American
+USA,ETH,Alaba,Black or African American
+USA,ETH,Amhara,Black or African American
+USA,ETH,Anyiwak,Black or African American
+USA,ETH,Arborie,Black or African American
+USA,ETH,Argoba,Black or African American
+USA,ETH,Ari,Black or African American
+USA,ETH,Bacha,Black or African American
+USA,ETH,Basketo,Black or African American
+USA,ETH,Bena,Black or African American
+USA,ETH,Bench,Black or African American
+USA,ETH,Berta,Black or African American
+USA,ETH,Bodi,Black or African American
+USA,ETH,Brayle,Black or African American
+USA,ETH,Burji,Black or African American
+USA,ETH,Chara,Black or African American
+USA,ETH,Dasenech,Black or African American
+USA,ETH,Dawro,Black or African American
+USA,ETH,Debase/Gewada,Black or African American
+USA,ETH,Derashe,Black or African American
+USA,ETH,Dime,Black or African American
+USA,ETH,Dizi,Black or African American
+USA,ETH,Djebutians,Black or African American
+USA,ETH,Donga,Black or African American
+USA,ETH,Eritrean,Black or African American
+USA,ETH,Fedashe,Black or African American
+USA,ETH,Gamo,Black or African American
+USA,ETH,Gebato,Black or African American
+USA,ETH,Gedeo,Black or African American
+USA,ETH,Gedicho,Black or African American
+USA,ETH,Gidole,Black or African American
+USA,ETH,Goffa,Black or African American
+USA,ETH,Guagu,Black or African American
+USA,ETH,Gumuz,Black or African American
+USA,ETH,Guragie,Black or African American
+USA,ETH,Hadiya,Black or African American
+USA,ETH,Hamer,Black or African American
+USA,ETH,Hareri,Black or African American
+USA,ETH,Irob,Black or African American
+USA,ETH,Karo,Black or African American
+USA,ETH,Kefficho,Black or African American
+USA,ETH,Kembata,Black or African American
+USA,ETH,Kenyan,Black or African American
+USA,ETH,Koma,Black or African American
+USA,ETH,Konso,Black or African American
+USA,ETH,Konta,Black or African American
+USA,ETH,Kore,Black or African American
+USA,ETH,Koyego,Black or African American
+USA,ETH,Kunama,Black or African American
+USA,ETH,Kusumie,Black or African American
+USA,ETH,Malie,Black or African American
+USA,ETH,Mao,Black or African American
+USA,ETH,Mareko,Black or African American
+USA,ETH,Mashola,Black or African American
+USA,ETH,Me'enite,Black or African American
+USA,ETH,Mejenger,Black or African American
+USA,ETH,Mere,Black or African American
+USA,ETH,Messengo,Black or African American
+USA,ETH,Mixed,Two or more races
+USA,ETH,Mossiya,Black or African American
+USA,ETH,Murle,Black or African American
+USA,ETH,Mursi,Black or African American
+USA,ETH,Nao,Black or African American
+USA,ETH,Nuwer,Black or African American
+USA,ETH,Nyanegatome,Black or African American
+USA,ETH,Oida,Black or African American
+USA,ETH,Oromo,Black or African American
+USA,ETH,Other,Black or African American
+USA,ETH,Other Ethiopian national groups,Black or African American
+USA,ETH,Qebena,Black or African American
+USA,ETH,Qechem,Black or African American
+USA,ETH,Qewama,Black or African American
+USA,ETH,She,Black or African American
+USA,ETH,Shekecho,Black or African American
+USA,ETH,Sheko,Black or African American
+USA,ETH,Shinasha,Black or African American
+USA,ETH,Sidama,Black or African American
+USA,ETH,Silte,Black or African American
+USA,ETH,Somali an,Black or African American
+USA,ETH,Somalie,Black or African American
+USA,ETH,Sudanese,Black or African American
+USA,ETH,Surma,Black or African American
+USA,ETH,Tembaro,Black or African American
+USA,ETH,Tigray,Black or African American
+USA,ETH,Tsemay,Black or African American
+USA,ETH,Upo,Black or African American
+USA,ETH,Welaita,Black or African American
+USA,ETH,Werji,Black or African American
+USA,ETH,Yem,Black or African American
+USA,ETH,Zelmam,Black or African American
+USA,ETH,Zeyese,Black or African American
+USA,FRA,,Some other race
+USA,GBR,Asians,Asian
+USA,GBR,Bangladeshi,Asian
+USA,GBR,Black,Black or African American
+USA,GBR,Black Caribbean,Black or African American
+USA,GBR,Black Other,Black or African American
+USA,GBR,Chinese,Asian
+USA,GBR,Indian,Asian
+USA,GBR,Other,White
+USA,GBR,Pakistani,Asian
+USA,GBR,White,White
+USA,GHA,Akan,Black or African American
+USA,GHA,Ewe,Black or African American
+USA,GHA,Ga-Dangme,Black or African American
+USA,GHA,Grusi,Black or African American
+USA,GHA,Guan,Black or African American
+USA,GHA,Gurma,Black or African American
+USA,GHA,Mande-Busanga,Black or African American
+USA,GHA,Mole-Dagbon,Black or African American
+USA,GHA,Other,Black or African American
+USA,GRC,,Some other race
+USA,GTM,,Some other race
+USA,GUY,,Some other race
+USA,HKG,British,Asian
+USA,HKG,Chinese,Asian
+USA,HKG,Filipino,Asian
+USA,HKG,Indian,Asian
+USA,HKG,Indonesian,Asian
+USA,HKG,Japanese,Asian
+USA,HKG,Nepalese,Asian
+USA,HKG,Other,Asian
+USA,HKG,Pakistani,Asian
+USA,HKG,Thai,Asian
+USA,HKG,United States,Asian
+USA,HND,,Some other race
+USA,HTI,,Some other race
+USA,IND,,Some other race
+USA,IRL,Black African,Black or African American
+USA,IRL,Black Other,Black or African American
+USA,IRL,Chinese,Asian
+USA,IRL,Irish,White
+USA,IRL,Irish traveller,White
+USA,IRL,Mixed,Two or more races
+USA,IRL,Not Stated,White
+USA,IRL,Other Asian,Asian
+USA,IRL,White non-Irish,White
+USA,IRN,Afgan,Some other race
+USA,IRN,Iranian,Some other race
+USA,IRN,Iraqi,Some other race
+USA,IRN,Not Stated,Some other race
+USA,IRN,Other,Some other race
+USA,IRN,Pakistani,Asian
+USA,IRN,Turkish,Some other race
+USA,IRQ,,Some other race
+USA,ISR,,Some other race
+USA,ITA,,Some other race
+USA,JAM,Black,Black or African American
+USA,JAM,Chinese,Asian
+USA,JAM,East Indian,Some other race
+USA,JAM,Mixed,Two or more races
+USA,JAM,Other,Some other race
+USA,JAM,Unknown,Some other race
+USA,JAM,White,White
+USA,JPN,,Some other race
+USA,KEN,African,Black or African American
+USA,KEN,American,Black or African American
+USA,KEN,Asians,Asian
+USA,KEN,Australian,Black or African American
+USA,KEN,Basuba,Black or African American
+USA,KEN,Borana,Black or African American
+USA,KEN,Burji,Black or African American
+USA,KEN,Caribbean,Black or African American
+USA,KEN,Dasenach,Black or African American
+USA,KEN,Embu,Black or African American
+USA,KEN,European,White
+USA,KEN,Gabbra,Black or African American
+USA,KEN,Galjeel,Black or African American
+USA,KEN,Galla,Black or African American
+USA,KEN,Gosha,Black or African American
+USA,KEN,Ilchamus,Black or African American
+USA,KEN,Isaak,Black or African American
+USA,KEN,Kalenjin,Black or African American
+USA,KEN,Kamba,Black or African American
+USA,KEN,Kenyan,Black or African American
+USA,KEN,Kenyan Americans,Black or African American
+USA,KEN,Kenyan Arab,Black or African American
+USA,KEN,Kenyan Asian,Asian
+USA,KEN,Kenyan European,White
+USA,KEN,Kenyan Somali,Black or African American
+USA,KEN,Kikuyu,Black or African American
+USA,KEN,Kisii,Black or African American
+USA,KEN,Konso,Black or African American
+USA,KEN,Kuria,Black or African American
+USA,KEN,Leysan,Black or African American
+USA,KEN,Luhya,Black or African American
+USA,KEN,Luo,Black or African American
+USA,KEN,Masai,Black or African American
+USA,KEN,Mbere,Black or African American
+USA,KEN,Meru,Black or African American
+USA,KEN,Mijikenda,Black or African American
+USA,KEN,Njemp,Black or African American
+USA,KEN,Nubi,Black or African American
+USA,KEN,Orma,Black or African American
+USA,KEN,Rendile,Black or African American
+USA,KEN,Sakuye,Black or African American
+USA,KEN,Samburu,Black or African American
+USA,KEN,Swahili/Shirazi,Black or African American
+USA,KEN,Taita,Black or African American
+USA,KEN,Taveta,Black or African American
+USA,KEN,Teso,Black or African American
+USA,KEN,Tharaka,Black or African American
+USA,KEN,Turkana,Black or African American
+USA,KEN,Waat,Black or African American
+USA,KEN,Walwana,Black or African American
+USA,KHM,,Some other race
+USA,KOR,,Some other race
+USA,LAO,Akha,Asian
+USA,LAO,Alack,Asian
+USA,LAO,Bid,Asian
+USA,LAO,Brao,Asian
+USA,LAO,Hanyi,Asian
+USA,LAO,Harak,Asian
+USA,LAO,Hayi,Asian
+USA,LAO,Hmong,Asian
+USA,LAO,Hor,Asian
+USA,LAO,Iewmien,Asian
+USA,LAO,Jeng,Asian
+USA,LAO,Katang,Asian
+USA,LAO,Katu,Asian
+USA,LAO,Khir,Asian
+USA,LAO,Khmu,Asian
+USA,LAO,Kmer,Asian
+USA,LAO,Kor,Asian
+USA,LAO,Kree,Asian
+USA,LAO,Kriang,Asian
+USA,LAO,Kui,Asian
+USA,LAO,Lahu,Asian
+USA,LAO,Lamed,Asian
+USA,LAO,Lao,Asian
+USA,LAO,Lavae,Asian
+USA,LAO,Laven,Asian
+USA,LAO,Lavy,Asian
+USA,LAO,Leu,Asian
+USA,LAO,Lolo,Asian
+USA,LAO,Makong,Asian
+USA,LAO,Mone,Asian
+USA,LAO,Moy,Asian
+USA,LAO,Musir,Asian
+USA,LAO,Ngae,Asian
+USA,LAO,Nguane,Asian
+USA,LAO,Nhahem,Asian
+USA,LAO,Nhuane,Asian
+USA,LAO,Not Stated,Asian
+USA,LAO,Oedou,Asian
+USA,LAO,Oey,Asian
+USA,LAO,Other,Asian
+USA,LAO,Pako,Asian
+USA,LAO,Phong,Asian
+USA,LAO,Phounoy,Asian
+USA,LAO,Phutai,Asian
+USA,LAO,Pray,Asian
+USA,LAO,Sadang,Asian
+USA,LAO,Samtao,Asian
+USA,LAO,Sida,Asian
+USA,LAO,Sila,Asian
+USA,LAO,Singsily,Asian
+USA,LAO,Talieng,Asian
+USA,LAO,Taoey,Asian
+USA,LAO,Thai,Asian
+USA,LAO,Thaneua,Asian
+USA,LAO,Thin,Asian
+USA,LAO,Toum,Asian
+USA,LAO,Tri,Asian
+USA,LAO,Triang,Asian
+USA,LAO,Unknown,Asian
+USA,LAO,Xaek,Asian
+USA,LAO,Xingmoon,Asian
+USA,LAO,Xuay,Asian
+USA,LAO,Yae,Asian
+USA,LAO,Yang,Asian
+USA,LAO,Yao,Asian
+USA,LAO,Yrou,Asian
+USA,LBN,,Some other race
+USA,MEX,,Some other race
+USA,MMR,,Some other race
+USA,NGA,,Some other race
+USA,NIC,,Some other race
+USA,NPL,Aathpahariya,Asian
+USA,NPL,Adibas/Janajati,Asian
+USA,NPL,Amat,Asian
+USA,NPL,Badhae,Asian
+USA,NPL,Badi,Asian
+USA,NPL,Bahing,Asian
+USA,NPL,Bania,Asian
+USA,NPL,Baniyan,Asian
+USA,NPL,Bankariya,Asian
+USA,NPL,Bantar,Asian
+USA,NPL,Bantar/Sardar,Asian
+USA,NPL,Bantawa,Asian
+USA,NPL,Barae,Asian
+USA,NPL,Beldar,Asian
+USA,NPL,Bengali,Asian
+USA,NPL,Bhediya/Gaderi,Asian
+USA,NPL,Bhote,Asian
+USA,NPL,Bhote Sherpa,Asian
+USA,NPL,Bhumihar,Asian
+USA,NPL,Bing/Binda,Asian
+USA,NPL,Bishwokarma,Asian
+USA,NPL,Bote,Asian
+USA,NPL,Brahman (Terai),Asian
+USA,NPL,Brahman (hill),Asian
+USA,NPL,Brahmu/Baramu,Asian
+USA,NPL,Buryat-Bouriates,Asian
+USA,NPL,Byasi/Sauka,Asian
+USA,NPL,Chai/Khulaut,Asian
+USA,NPL,Chamar,Asian
+USA,NPL,Chamar/Harijan/Ram,Asian
+USA,NPL,Chamling,Asian
+USA,NPL,Chepang,Asian
+USA,NPL,Chepang/Praja,Asian
+USA,NPL,Chhantel,Asian
+USA,NPL,Chhantyal/Chhantel,Asian
+USA,NPL,Chhetri,Asian
+USA,NPL,Chidmiar,Asian
+USA,NPL,Chumba/Nubri,Asian
+USA,NPL,Churoute,Asian
+USA,NPL,Dalit/Unidentified Dalit,Asian
+USA,NPL,Damai,Asian
+USA,NPL,Danuwar,Asian
+USA,NPL,Darai,Asian
+USA,NPL,Dev,Asian
+USA,NPL,Dhagar/Jhagar,Asian
+USA,NPL,Dhandi,Asian
+USA,NPL,Dhankar/ Dharikar,Asian
+USA,NPL,Dhanuk,Asian
+USA,NPL,Dhimai,Asian
+USA,NPL,Dhobi,Asian
+USA,NPL,Dhunia,Asian
+USA,NPL,Dhusadh,Asian
+USA,NPL,Dolpo,Asian
+USA,NPL,Dom,Asian
+USA,NPL,Done,Asian
+USA,NPL,Dura,Asian
+USA,NPL,Gaine,Asian
+USA,NPL,Gangain,Asian
+USA,NPL,Ghale,Asian
+USA,NPL,Ghart/bhujel,Asian
+USA,NPL,Gharti/Bhujel,Asian
+USA,NPL,Gondh/Gond,Asian
+USA,NPL,Gurung,Asian
+USA,NPL,Hajam/Thakur,Asian
+USA,NPL,Halkhor,Asian
+USA,NPL,Haluwai,Asian
+USA,NPL,Hayu,Asian
+USA,NPL,Hyolmo/Yholmopa,Asian
+USA,NPL,Jaine,Asian
+USA,NPL,Jirel,Asian
+USA,NPL,Kahar,Asian
+USA,NPL,Kalar,Asian
+USA,NPL,Kalwar,Asian
+USA,NPL,Kamar,Asian
+USA,NPL,Kami,Asian
+USA,NPL,Kanu,Asian
+USA,NPL,Karmarong,Asian
+USA,NPL,Kathabaniyan,Asian
+USA,NPL,Kayastha,Asian
+USA,NPL,Kewarat,Asian
+USA,NPL,Kewat,Asian
+USA,NPL,Khaling,Asian
+USA,NPL,Khatik,Asian
+USA,NPL,Khatway,Asian
+USA,NPL,Khatwe,Asian
+USA,NPL,Khawas,Asian
+USA,NPL,Kisan,Asian
+USA,NPL,Koche,Asian
+USA,NPL,Koiri,Asian
+USA,NPL,Koiri/Kushwaha,Asian
+USA,NPL,Kshetri,Asian
+USA,NPL,Kulung,Asian
+USA,NPL,Kumal,Asian
+USA,NPL,Kumhar,Asian
+USA,NPL,Kurmi,Asian
+USA,NPL,Kusunda,Asian
+USA,NPL,Lepcha,Asian
+USA,NPL,Lhomi,Asian
+USA,NPL,Lhopa,Asian
+USA,NPL,Limbu,Asian
+USA,NPL,Lodha,Asian
+USA,NPL,Lohar,Asian
+USA,NPL,Loharung,Asian
+USA,NPL,Magar,Asian
+USA,NPL,Majhi,Asian
+USA,NPL,Mali,Asian
+USA,NPL,Mallah,Asian
+USA,NPL,Marwadi,Asian
+USA,NPL,Meche,Asian
+USA,NPL,Mewahang,Asian
+USA,NPL,Mijar,Asian
+USA,NPL,Moslem,Asian
+USA,NPL,Mugal/Mugum,Asian
+USA,NPL,Munda,Asian
+USA,NPL,Musahar,Asian
+USA,NPL,Musalman,Asian
+USA,NPL,Nachhiring,Asian
+USA,NPL,Natuwa,Asian
+USA,NPL,Newari,Asian
+USA,NPL,Nunia,Asian
+USA,NPL,Nurang,Asian
+USA,NPL,Oraon/Kudukh,Asian
+USA,NPL,Other,Asian
+USA,NPL,Pahari,Asian
+USA,NPL,Pariyar,Asian
+USA,NPL,Patharkata/Kuswadiya,Asian
+USA,NPL,Patharkatt/ Kushwadiya,Asian
+USA,NPL,Phree,Asian
+USA,NPL,Pun,Asian
+USA,NPL,Rai,Asian
+USA,NPL,Raikirati,Asian
+USA,NPL,Rajbansi,Asian
+USA,NPL,Rajbhar,Asian
+USA,NPL,Rajdhob,Asian
+USA,NPL,Raji,Asian
+USA,NPL,Rajput,Asian
+USA,NPL,Ranatharu,Asian
+USA,NPL,Rauniyar,Asian
+USA,NPL,Raute,Asian
+USA,NPL,Sampang,Asian
+USA,NPL,Santha/satar,Asian
+USA,NPL,Sanyasi,Asian
+USA,NPL,Sarbaria,Asian
+USA,NPL,Sarki,Asian
+USA,NPL,Sherpa,Asian
+USA,NPL,Sikh,Asian
+USA,NPL,Sonar,Asian
+USA,NPL,Sudhi,Asian
+USA,NPL,Sundi,Asian
+USA,NPL,Sunuwari,Asian
+USA,NPL,Surel,Asian
+USA,NPL,Tajpuriya,Asian
+USA,NPL,Tamang,Asian
+USA,NPL,Tatma,Asian
+USA,NPL,Teli,Asian
+USA,NPL,Thakali,Asian
+USA,NPL,Thakkuri,Asian
+USA,NPL,Thami,Asian
+USA,NPL,Tharu,Asian
+USA,NPL,Thulung,Asian
+USA,NPL,Topkegola,Asian
+USA,NPL,Unknown,Asian
+USA,NPL,Walung,Asian
+USA,NPL,Yadav,Asian
+USA,NPL,Yakkha,Asian
+USA,NPL,Yamphu,Asian
+USA,NPL,Yehlmo,Asian
+USA,PAK,,Some other race
+USA,PAN,,Some other race
+USA,PER,Aymara,Some other race
+USA,PER,"Black, Brown, Zambo, Mulato, Afro-Peruvian or Afro-descendants",Black or African American
+USA,PER,Mestizo,Some other race
+USA,PER,Native or Indigenous Amazonians,Some other race
+USA,PER,Nikkei (Japanese descendants),Asian
+USA,PER,Other,Some other race
+USA,PER,Other Indigenous,Some other race
+USA,PER,Quechua,Some other race
+USA,PER,Tusán (Chinese descendants),Asian
+USA,PER,Unknown,Some other race
+USA,PER,White,White
+USA,PHL,Abelling,Asian
+USA,PHL,Abiyan,Asian
+USA,PHL,Aburlin,Asian
+USA,PHL,Aeta,Asian
+USA,PHL,Aeta/Ayta,Asian
+USA,PHL,Aeta/Ayta-Sambal,Asian
+USA,PHL,Afgan,Asian
+USA,PHL,Aggay,Asian
+USA,PHL,Agta,Asian
+USA,PHL,Agutaynon,Asian
+USA,PHL,Akeanon/Aklanon,Asian
+USA,PHL,Alangan,Asian
+USA,PHL,Alta,Asian
+USA,PHL,American,Asian
+USA,PHL,Apayao/Yapayao,Asian
+USA,PHL,Applai,Asian
+USA,PHL,Aromanen-Manobo/Eromanen,Asian
+USA,PHL,Aromanen-Manobo/Eromanen-Manobo,Asian
+USA,PHL,Ata,Asian
+USA,PHL,Ati,Asian
+USA,PHL,Atta/Ata/Ati,Asian
+USA,PHL,Australian,Asian
+USA,PHL,Ayangan,Asian
+USA,PHL,Badjao,Asian
+USA,PHL,"Badjao, Sama Dilaut            ",Asian
+USA,PHL,Bago,Asian
+USA,PHL,Bagobo,Asian
+USA,PHL,Bagobo Klata,Asian
+USA,PHL,Bagobo Tagabawa,Asian
+USA,PHL,Bagobo/Guinga,Asian
+USA,PHL,Bajaus,Asian
+USA,PHL,Balangao/Baliwon,Asian
+USA,PHL,Baliwon-Gaddang,Asian
+USA,PHL,Bantoanon,Asian
+USA,PHL,Banwaon,Asian
+USA,PHL,Batak/Binatak,Asian
+USA,PHL,Batangan,Asian
+USA,PHL,Bikol/Bicol,Asian
+USA,PHL,Bilaan/B'laan,Asian
+USA,PHL,Binukid/Bukidnon,Asian
+USA,PHL,Bisaya/Binisaya,Asian
+USA,PHL,Boholano,Asian
+USA,PHL,Bolinao,Asian
+USA,PHL,Bontok/Binontok,Asian
+USA,PHL,British,Asian
+USA,PHL,Bugkalot,Asian
+USA,PHL,Buhid,Asian
+USA,PHL,Bukidnon-Akeanon,Asian
+USA,PHL,Bukidnon-Iraynon,Asian
+USA,PHL,Butuanon,Asian
+USA,PHL,Cagayanen,Asian
+USA,PHL,Calinga,Asian
+USA,PHL,Canadian,Asian
+USA,PHL,Capizeño,Asian
+USA,PHL,Caviteño,Asian
+USA,PHL,Caviteño-Chavacano,Asian
+USA,PHL,Cebuano,Asian
+USA,PHL,Chinese,Asian
+USA,PHL,Cimaron,Asian
+USA,PHL,Cotabateño,Asian
+USA,PHL,Cotabateño-Chavacano,Asian
+USA,PHL,Cuyunon/Cuyunan,Asian
+USA,PHL,Davao-Chavacano,Asian
+USA,PHL,Davaweño,Asian
+USA,PHL,Diangan,Asian
+USA,PHL,Dibabawon,Asian
+USA,PHL,Dumagat (Umiray),Asian
+USA,PHL,Dumagat-Remontado,Asian
+USA,PHL,Eskaya,Asian
+USA,PHL,French,Asian
+USA,PHL,Gaddang,Asian
+USA,PHL,German,Asian
+USA,PHL,Gubatnon,Asian
+USA,PHL,Guiangan,Asian
+USA,PHL,Hamtikanon,Asian
+USA,PHL,Hanunuo,Asian
+USA,PHL,Higaonon,Asian
+USA,PHL,Higaonon-Tagoloanon,Asian
+USA,PHL,"Hiligaynon, ilonggo               ",Asian
+USA,PHL,Ibaloi/Inibaloi,Asian
+USA,PHL,Ibanag,Asian
+USA,PHL,Ibatan,Asian
+USA,PHL,Ibontoc,Asian
+USA,PHL,Ibukid,Asian
+USA,PHL,Ifugao,Asian
+USA,PHL,Ikalahan/Kalanguya,Asian
+USA,PHL,Ilanun,Asian
+USA,PHL,Illaud,Asian
+USA,PHL,Ilocano,Asian
+USA,PHL,Ilongot,Asian
+USA,PHL,Imalawa,Asian
+USA,PHL,Indian (indigenous),Asian
+USA,PHL,Indonesian,Asian
+USA,PHL,Iranon,Asian
+USA,PHL,Iraya,Asian
+USA,PHL,Isamal Kanlaw,Asian
+USA,PHL,Isarog,Asian
+USA,PHL,Isinay,Asian
+USA,PHL,Isnag,Asian
+USA,PHL,Isneg,Asian
+USA,PHL,Italian,Asian
+USA,PHL,Itawis,Asian
+USA,PHL,Itawit,Asian
+USA,PHL,Itneg,Asian
+USA,PHL,Itneg/Tinguian,Asian
+USA,PHL,Itneg/Tinguian-Adasen,Asian
+USA,PHL,Itneg/Tinguian-Inlaud,Asian
+USA,PHL,Itneg/Tinguian-Maeng,Asian
+USA,PHL,Itneg/Tinguian-Masadiit,Asian
+USA,PHL,Ivatan/Itbayat,Asian
+USA,PHL,Iwak/owak,Asian
+USA,PHL,Iyapplai,Asian
+USA,PHL,Iyiwaks,Asian
+USA,PHL,Japanese,Asian
+USA,PHL,Jawa Mapun,Asian
+USA,PHL,Kaagan,Asian
+USA,PHL,Kabayukan,Asian
+USA,PHL,Kabihug,Asian
+USA,PHL,Kagayanen,Asian
+USA,PHL,Kailawan/Kaylawan,Asian
+USA,PHL,Kalagan,Asian
+USA,PHL,Kalamianen,Asian
+USA,PHL,Kalinga,Asian
+USA,PHL,Kalinga-Lubuagan,Asian
+USA,PHL,Kalinga-Pinukpuk,Asian
+USA,PHL,Kamayo,Asian
+USA,PHL,Kamigin/Kinamiging,Asian
+USA,PHL,Kankaney,Asian
+USA,PHL,Kapampangan,Asian
+USA,PHL,Kapul,Asian
+USA,PHL,Karaga,Asian
+USA,PHL,Karao,Asian
+USA,PHL,Karaya,Asian
+USA,PHL,Karolanos,Asian
+USA,PHL,Kasigurahin,Asian
+USA,PHL,Kaunana,Asian
+USA,PHL,Kinalinga,Asian
+USA,PHL,Kiniraya,Asian
+USA,PHL,Kolibugan/Kalibugan,Asian
+USA,PHL,Korean,Asian
+USA,PHL,Lambanguian,Asian
+USA,PHL,Langi,Asian
+USA,PHL,Ligbuk/Lugbok,Asian
+USA,PHL,Magahats,Asian
+USA,PHL,Magkunana,Asian
+USA,PHL,Maguindanao,Asian
+USA,PHL,Malaueg,Asian
+USA,PHL,Malbog,Asian
+USA,PHL,Mamanwa,Asian
+USA,PHL,Mandaya,Asian
+USA,PHL,Mangguangan,Asian
+USA,PHL,Mangyan,Asian
+USA,PHL,Mangyan-Alangan,Asian
+USA,PHL,Mangyan-Buhid,Asian
+USA,PHL,Mangyan-Hanunuo,Asian
+USA,PHL,Mangyan-Iraya,Asian
+USA,PHL,Manobo-Aromanon,Asian
+USA,PHL,Manobo-Ata,Asian
+USA,PHL,Manobo-Dulangan,Asian
+USA,PHL,Manobo-Pulanguinon,Asian
+USA,PHL,Manobo/Ata-Manobo,Asian
+USA,PHL,Mansaka,Asian
+USA,PHL,Maranao,Asian
+USA,PHL,Masbateño/Masbatenon,Asian
+USA,PHL,Matigsalog,Asian
+USA,PHL,Molbog,Asian
+USA,PHL,Negrito,Asian
+USA,PHL,Nilulubo,Asian
+USA,PHL,Obu-Manuvu,Asian
+USA,PHL,Other Foreign Ethinicity,Asian
+USA,PHL,Other local ethnicity,Asian
+USA,PHL,Palawan-o,Asian
+USA,PHL,Palawan/Pinalawan,Asian
+USA,PHL,Pan-Ayanon,Asian
+USA,PHL,Panay Bukidnon,Asian
+USA,PHL,Pangasinan/Panggalato,Asian
+USA,PHL,Paranan,Asian
+USA,PHL,Pinangal,Asian
+USA,PHL,Ratagnon,Asian
+USA,PHL,Remontado,Asian
+USA,PHL,Romblon,Asian
+USA,PHL,Sama (Samal)/Abaknon,Asian
+USA,PHL,Sama Badjao,Asian
+USA,PHL,Sama Bangengeh,Asian
+USA,PHL,Sama Bangingi,Asian
+USA,PHL,Sama Dilaya,Asian
+USA,PHL,"Sambal, Zambal                                             ",Asian
+USA,PHL,"Sangil, Sangir                                             ",Asian
+USA,PHL,Sibuyan Mangyan-Tagabukid,Asian
+USA,PHL,Singaporean,Asian
+USA,PHL,South African,Black or African American
+USA,PHL,Spanish,Asian
+USA,PHL,Subanen/Subaben,Asian
+USA,PHL,Sulod,Asian
+USA,PHL,Surigaonon,Asian
+USA,PHL,Swiss,Asian
+USA,PHL,T'boli,Asian
+USA,PHL,Tabangnon,Asian
+USA,PHL,Tadyawan,Asian
+USA,PHL,Tagabawa,Asian
+USA,PHL,Tagabili,Asian
+USA,PHL,Tagakaolo,Asian
+USA,PHL,Tagalog,Asian
+USA,PHL,Tagbanwa,Asian
+USA,PHL,Tagbuaonon,Asian
+USA,PHL,Taiwanese,Asian
+USA,PHL,Talaandig,Asian
+USA,PHL,Talaingod,Asian
+USA,PHL,Tausug,Asian
+USA,PHL,Teduray,Asian
+USA,PHL,Ternateño-Chavacano,Asian
+USA,PHL,Tigwahon,Asian
+USA,PHL,Tinananen,Asian
+USA,PHL,Tinggian,Asian
+USA,PHL,Tiruray,Asian
+USA,PHL,Turkish,Asian
+USA,PHL,Tuwali,Asian
+USA,PHL,Ubo,Asian
+USA,PHL,Umayamnon,Asian
+USA,PHL,Unknown,Asian
+USA,PHL,Waray,Asian
+USA,PHL,Yakan,Asian
+USA,PHL,Yogad,Asian
+USA,PHL,Zamboangeño-Chavacano,Asian
+USA,POL,American,White
+USA,POL,Armenian,White
+USA,POL,Belarus,White
+USA,POL,Bulgarian,White
+USA,POL,Canadian,White
+USA,POL,Chinese,Asian
+USA,POL,Czech,White
+USA,POL,Dutch,White
+USA,POL,English,White
+USA,POL,French,White
+USA,POL,Georgian,White
+USA,POL,German,White
+USA,POL,Greek,White
+USA,POL,Hungarian,White
+USA,POL,Indian,Asian
+USA,POL,Irish,White
+USA,POL,Italian,White
+USA,POL,Jewish,White
+USA,POL,Kasubian,White
+USA,POL,Lemko,White
+USA,POL,Lithuanian,White
+USA,POL,Other,White
+USA,POL,Polish,White
+USA,POL,Romani (Gypsy),Other
+USA,POL,Russian,White
+USA,POL,Ruthenian,White
+USA,POL,Silesian,White
+USA,POL,Slovak,White
+USA,POL,Spanish,White
+USA,POL,Tatar,White
+USA,POL,Turkish,White
+USA,POL,Ukrainian,White
+USA,POL,Unknown,White
+USA,POL,Vietnamese,White
+USA,PRI,Cubans,Some other race
+USA,PRI,Mexican,Some other race
+USA,PRI,Not Hispanic or Latino,Some other race
+USA,PRI,Other Hispanic or Latino,Some other race
+USA,PRI,Puerto Rican,Some other race
+USA,PRT,,Some other race
+USA,ROU,Armenian,White
+USA,ROU,Bulgarian,White
+USA,ROU,Chinese,Asian
+USA,ROU,Croatian,White
+USA,ROU,Csangas,White
+USA,ROU,Czech,White
+USA,ROU,German,White
+USA,ROU,Greek,White
+USA,ROU,Hungarian,White
+USA,ROU,Italian,White
+USA,ROU,Jewish,White
+USA,ROU,Not included/specified,White
+USA,ROU,Other,White
+USA,ROU,Polish,White
+USA,ROU,Romani (Gypsy),Other
+USA,ROU,Romanian,Other
+USA,ROU,Russian,White
+USA,ROU,Russian-Lipoveni,White
+USA,ROU,Serbian,White
+USA,ROU,Slovak,White
+USA,ROU,Tatar,White
+USA,ROU,Turkish,White
+USA,ROU,Turks,White
+USA,ROU,Ukrainian,White
+USA,ROU,Unknown,White
+USA,RUS,Abaza,White
+USA,RUS,Abkhazian,White
+USA,RUS,Adyghei,White
+USA,RUS,Adzharian,White
+USA,RUS,Afgan,White
+USA,RUS,Agul,White
+USA,RUS,Akhvakh,White
+USA,RUS,Akkintsi,White
+USA,RUS,Aleut,White
+USA,RUS,Altian,White
+USA,RUS,American,White
+USA,RUS,Andian,White
+USA,RUS,Arab,Other
+USA,RUS,Archin,White
+USA,RUS,Armenian,White
+USA,RUS,Assyrian,Other
+USA,RUS,Astrakhan Tatars,White
+USA,RUS,Avar,White
+USA,RUS,Azerbaijani,White
+USA,RUS,Bagvalal,White
+USA,RUS,Balkan,White
+USA,RUS,Bashkir,White
+USA,RUS,Besermyan,White
+USA,RUS,Bezhta,White
+USA,RUS,Bosnian,White
+USA,RUS,Botlikh,White
+USA,RUS,British,White
+USA,RUS,Bulgarian,White
+USA,RUS,Buryat,White
+USA,RUS,Byelorussian,White
+USA,RUS,Central Asian Jew,Asian
+USA,RUS,Chamalal,White
+USA,RUS,Chechen,White
+USA,RUS,Chelkanian,White
+USA,RUS,Cherkesogais,White
+USA,RUS,Chinese,Asian
+USA,RUS,Chukchi,White
+USA,RUS,Chulym,White
+USA,RUS,Chuvans,White
+USA,RUS,Chuvash,White
+USA,RUS,Circassian,White
+USA,RUS,Coast-Dwellers,White
+USA,RUS,Cossack,White
+USA,RUS,Crimean Tatars,White
+USA,RUS,Croatian,White
+USA,RUS,Cubans,White
+USA,RUS,Czech,White
+USA,RUS,Darghin,White
+USA,RUS,Didoit,White
+USA,RUS,Digorian,White
+USA,RUS,Dolghan,White
+USA,RUS,Dungan,White
+USA,RUS,Enet,White
+USA,RUS,Erzya,White
+USA,RUS,Eskimo,White
+USA,RUS,Estonian,White
+USA,RUS,Even,White
+USA,RUS,Evenk,White
+USA,RUS,Finnish,White
+USA,RUS,French,White
+USA,RUS,Gagauz,White
+USA,RUS,Georgian,White
+USA,RUS,Georgian Jew,White
+USA,RUS,German,White
+USA,RUS,Godoberi,White
+USA,RUS,Greek,White
+USA,RUS,Greek-Urum,White
+USA,RUS,Hemshils,White
+USA,RUS,Hinukh,White
+USA,RUS,Hungarian,White
+USA,RUS,Hunzib,White
+USA,RUS,Indian,Asian
+USA,RUS,Inghiloi,White
+USA,RUS,Ingrian,White
+USA,RUS,Ingrian Finn,White
+USA,RUS,Ingushi,White
+USA,RUS,Italian,White
+USA,RUS,Itelmeu,White
+USA,RUS,Izhemtsy,White
+USA,RUS,Japanese,White
+USA,RUS,Jewish,White
+USA,RUS,Kabardian,White
+USA,RUS,Kaitagian,White
+USA,RUS,Kalmyk,White
+USA,RUS,Kamchadal,White
+USA,RUS,Kara-Kalpak,White
+USA,RUS,Karachai,White
+USA,RUS,Karaga,White
+USA,RUS,Karaite,White
+USA,RUS,Karatin,White
+USA,RUS,Karelian,White
+USA,RUS,Kazak,White
+USA,RUS,Kerek,White
+USA,RUS,Ket,White
+USA,RUS,Khakass,White
+USA,RUS,Khanty,White
+USA,RUS,Khvarshin,White
+USA,RUS,Komi,White
+USA,RUS,Komi-Izhemtsy,White
+USA,RUS,Korean,White
+USA,RUS,Koryak,White
+USA,RUS,Kryashen,White
+USA,RUS,Krymchak,White
+USA,RUS,Kubachin,White
+USA,RUS,Kuman,White
+USA,RUS,Kumyk,White
+USA,RUS,Kurd,White
+USA,RUS,Kurmanji,White
+USA,RUS,Kyrgyz,White
+USA,RUS,Lak,White
+USA,RUS,Latgalian,White
+USA,RUS,Latvian,White
+USA,RUS,Lazs,White
+USA,RUS,Lezghin,White
+USA,RUS,Lithuanian,White
+USA,RUS,Macedonian,White
+USA,RUS,Mari,White
+USA,RUS,Meadow-Eastern Mari,White
+USA,RUS,Megrelian,White
+USA,RUS,Mennonite,White
+USA,RUS,Meskhetian Turkish,White
+USA,RUS,Mishari,White
+USA,RUS,Moksha,White
+USA,RUS,Moldovan,White
+USA,RUS,Mongol,White
+USA,RUS,Montenegrian,White
+USA,RUS,Mordovian,White
+USA,RUS,Mordovian-Erzya,White
+USA,RUS,Mordovian-Moksha,White
+USA,RUS,Mountain Jew,White
+USA,RUS,Mountain-Mari,White
+USA,RUS,Muncie,White
+USA,RUS,Nagaibak,White
+USA,RUS,Nanai,White
+USA,RUS,Negidal,White
+USA,RUS,Nenet,White
+USA,RUS,Nganasan,White
+USA,RUS,Nivkhi,White
+USA,RUS,Nogai,White
+USA,RUS,Not Stated,White
+USA,RUS,Not specified,White
+USA,RUS,Orochi,White
+USA,RUS,Ossetian,White
+USA,RUS,Ossetian-Digorian,White
+USA,RUS,Ossetian-Ironian,White
+USA,RUS,Pakistani,Asian
+USA,RUS,Pamiri,White
+USA,RUS,Persian,Other
+USA,RUS,Polish,White
+USA,RUS,Refused to Respond,White
+USA,RUS,Romani (Gypsy),Other
+USA,RUS,Romani of Central Asia,Other
+USA,RUS,Romanian,Other
+USA,RUS,Romi-Permyak,White
+USA,RUS,Russian,White
+USA,RUS,Rusyn,White
+USA,RUS,Rutul,White
+USA,RUS,Sakha,White
+USA,RUS,Samia,White
+USA,RUS,Selkup,White
+USA,RUS,Serbian,White
+USA,RUS,Seth People,White
+USA,RUS,Shapsug,White
+USA,RUS,Shors,White
+USA,RUS,Siberian-Tatarian,White
+USA,RUS,Slovak,White
+USA,RUS,Slovenian,White
+USA,RUS,Soyot,White
+USA,RUS,Spaniard,White
+USA,RUS,Svan,White
+USA,RUS,Tabasaran,White
+USA,RUS,Tadjik,White
+USA,RUS,Talish,White
+USA,RUS,Tat People,White
+USA,RUS,Tatar,White
+USA,RUS,Tazi,White
+USA,RUS,Telengit,White
+USA,RUS,Teleut,White
+USA,RUS,Tindi,White
+USA,RUS,Todzhan,White
+USA,RUS,Tophalar,White
+USA,RUS,Tsakhur,White
+USA,RUS,Tubalar,White
+USA,RUS,Turkmenian,White
+USA,RUS,Turks,White
+USA,RUS,Tuva,White
+USA,RUS,Tuva-Todzhans,White
+USA,RUS,Udge,White
+USA,RUS,Udin,White
+USA,RUS,Udmurt,White
+USA,RUS,Uighur,White
+USA,RUS,Uilta People,White
+USA,RUS,Ukrainian,White
+USA,RUS,Ulchi,White
+USA,RUS,Uzbek,White
+USA,RUS,Vep,White
+USA,RUS,Vietnamese,White
+USA,RUS,Vod,White
+USA,RUS,Yazidi,White
+USA,RUS,Yugh,White
+USA,RUS,Yukagir,White
+USA,SLV,Black,Black or African American
+USA,SLV,Kakawira,Some other race
+USA,SLV,Lenca,Some other race
+USA,SLV,Mestizo,Some other race
+USA,SLV,Nahua-Pipil,Some other race
+USA,SLV,Other,Some other race
+USA,SLV,Other Indigenous,Some other race
+USA,SLV,White,White
+USA,THA,Bangladeshi,Asian
+USA,THA,Cambodian,Asian
+USA,THA,Chinese,Asian
+USA,THA,Indian,Asian
+USA,THA,Japanese,Asian
+USA,THA,Korean,Asian
+USA,THA,Laotian,Asian
+USA,THA,Myanmar,Asian
+USA,THA,Nepalese,Asian
+USA,THA,Pakistani,Asian
+USA,THA,Philippine Native,Asian
+USA,THA,Sri Lankan,Asian
+USA,THA,Thai,Asian
+USA,THA,Unknown,Asian
+USA,THA,Vietnamese,Asian
+USA,TTO,African,Black or African American
+USA,TTO,Caucasian,Asian
+USA,TTO,Chinese,Asian
+USA,TTO,East Indian,Some other race
+USA,TTO,Indigenous,Some other race
+USA,TTO,Mixed,Two or more races
+USA,TTO,Other,Some other race
+USA,TTO,Portuguese,Some other race
+USA,TTO,"Syrian, Lebanese or Arab",Some other race
+USA,TTO,Unknown,Some other race
+USA,TUR,,Some other race
+USA,UKR,Abaza,White
+USA,UKR,Abkhazian,White
+USA,UKR,Adyghei,White
+USA,UKR,Afgan,White
+USA,UKR,Agul,White
+USA,UKR,Albanian,White
+USA,UKR,American,White
+USA,UKR,Arab,Other
+USA,UKR,Armenian,White
+USA,UKR,Assyrian,Other
+USA,UKR,Austrian,White
+USA,UKR,Avar,White
+USA,UKR,Azerbaijani,White
+USA,UKR,Balkar,White
+USA,UKR,Bashkir,White
+USA,UKR,Belarus,White
+USA,UKR,Bulgarian,White
+USA,UKR,Buryat,White
+USA,UKR,Chechen,White
+USA,UKR,Chinese,Asian
+USA,UKR,Chuvans,White
+USA,UKR,Chuvash,White
+USA,UKR,Circassian,White
+USA,UKR,Crimean Tatars,White
+USA,UKR,Croatian,White
+USA,UKR,Cubans,White
+USA,UKR,Czech,White
+USA,UKR,Darghin,White
+USA,UKR,Dungan,White
+USA,UKR,Dutch,White
+USA,UKR,English,White
+USA,UKR,Eskimo,White
+USA,UKR,Estonian,White
+USA,UKR,Even,White
+USA,UKR,Finnish,White
+USA,UKR,French,White
+USA,UKR,Gagauz,White
+USA,UKR,Georgian,White
+USA,UKR,German,White
+USA,UKR,Greek,White
+USA,UKR,Hungarian,White
+USA,UKR,Ijor,White
+USA,UKR,Indians and Pakistanis,Asian
+USA,UKR,Ingushi,White
+USA,UKR,Italian,White
+USA,UKR,Jewish,White
+USA,UKR,Kabardian,White
+USA,UKR,Kalmyk,White
+USA,UKR,Kara-Kalpak,White
+USA,UKR,Karachayer,White
+USA,UKR,Karaim,White
+USA,UKR,Karelian,White
+USA,UKR,Kazak,White
+USA,UKR,Khakassian,White
+USA,UKR,Khalkh,White
+USA,UKR,Khanty,White
+USA,UKR,Komi,White
+USA,UKR,Komi-Permyak,White
+USA,UKR,Korean,White
+USA,UKR,Krymchak,White
+USA,UKR,Kumyk,White
+USA,UKR,Kurd,White
+USA,UKR,Kyrgyz,White
+USA,UKR,Lacktsis,White
+USA,UKR,Letts,White
+USA,UKR,Lezghin,White
+USA,UKR,Lithuanian,White
+USA,UKR,Livs,White
+USA,UKR,Mari,White
+USA,UKR,Meskhetian Turkish,White
+USA,UKR,Moldovan,White
+USA,UKR,Mordovian,White
+USA,UKR,Nentsi,White
+USA,UKR,Nivkhi,White
+USA,UKR,Nogai,White
+USA,UKR,Orochi,White
+USA,UKR,Orok,White
+USA,UKR,Ossetian,White
+USA,UKR,Other,White
+USA,UKR,Persian,Other
+USA,UKR,Polish,White
+USA,UKR,Romani (Gypsy),Other
+USA,UKR,Romanian,Other
+USA,UKR,Russian,White
+USA,UKR,Rutul,White
+USA,UKR,Saam,White
+USA,UKR,Serbian,White
+USA,UKR,Slovak,White
+USA,UKR,Spanish,White
+USA,UKR,Swedish,White
+USA,UKR,Tabasaran,White
+USA,UKR,Tajik,White
+USA,UKR,Talish,White
+USA,UKR,Tatar,White
+USA,UKR,Turkish,White
+USA,UKR,Turkmenian,White
+USA,UKR,Udin,White
+USA,UKR,Udmurt,White
+USA,UKR,Uighur,White
+USA,UKR,Ukrainian,White
+USA,UKR,Unknown,White
+USA,UKR,Uzbek,White
+USA,UKR,Vep,White
+USA,UKR,Vietnamese,White
+USA,UKR,Yakut,White
+USA,VEN,Indigenous,Some other race
+USA,VNM,Bana,Asian
+USA,VNM,Bo Y,Asian
+USA,VNM,Brau,Asian
+USA,VNM,Bru Van Kieu,Asian
+USA,VNM,Cham,Asian
+USA,VNM,Choro,Asian
+USA,VNM,Churu,Asian
+USA,VNM,Chut,Asian
+USA,VNM,Co,Asian
+USA,VNM,Co Lao,Asian
+USA,VNM,Coho,Asian
+USA,VNM,Cong,Asian
+USA,VNM,Cotu,Asian
+USA,VNM,Dao,Asian
+USA,VNM,Ede,Asian
+USA,VNM,Foreigners,Asian
+USA,VNM,Giarai,Asian
+USA,VNM,Giay,Asian
+USA,VNM,Gie Trieng,Asian
+USA,VNM,Ha Nhi,Asian
+USA,VNM,Hmong,Asian
+USA,VNM,Hoa,Asian
+USA,VNM,Hre,Asian
+USA,VNM,Khang,Asian
+USA,VNM,Khmer,Asian
+USA,VNM,Khome,Asian
+USA,VNM,Khomu,Asian
+USA,VNM,Kinh,Asian
+USA,VNM,La Chi,Asian
+USA,VNM,La Ha,Asian
+USA,VNM,Lahu,Asian
+USA,VNM,Lao,Asian
+USA,VNM,Lolo,Asian
+USA,VNM,Lu,Asian
+USA,VNM,Ma,Asian
+USA,VNM,Mang,Asian
+USA,VNM,Mnong,Asian
+USA,VNM,Muong,Asian
+USA,VNM,Ngai,Asian
+USA,VNM,Not Stated,Asian
+USA,VNM,Nung,Asian
+USA,VNM,O Du,Asian
+USA,VNM,Pa Then,Asian
+USA,VNM,Phu La,Asian
+USA,VNM,Pu Peo,Asian
+USA,VNM,Raglai,Asian
+USA,VNM,Romam,Asian
+USA,VNM,San Chay,Asian
+USA,VNM,San Diu,Asian
+USA,VNM,Si La,Asian
+USA,VNM,Taoi,Asian
+USA,VNM,Tay,Asian
+USA,VNM,Thai,Asian
+USA,VNM,Tho,Asian
+USA,VNM,Xinh mun,Asian
+USA,VNM,Xodan,Asian
+USA,VNM,Xtieng,Asian
