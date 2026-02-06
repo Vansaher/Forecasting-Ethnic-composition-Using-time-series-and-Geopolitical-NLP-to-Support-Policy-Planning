@@ -1,0 +1,60 @@
+GDELT feature outputs
+
+1. gdelt_core_usa_mys_idn_hybridwindows_volatility.csv
+	A country-filtered GDELT volatility feature table, restricted to the study’s focus countries (USA, Malaysia, 	Indonesia).
+
+	Represents
+		Country-level geopolitical volatility signals.
+		Medium- to long-run instability patterns, not individual events.
+
+	Feature Engineering
+		Aggregated GDELT events into hybrid temporal windows (e.g. rolling and fixed windows).
+		Computed volatility-oriented features, such as:
+			changes in event counts
+			changes in tone
+			intensity fluctuations over time
+		Filtered early to reduce data volume and noise.
+
+2. gdelt_country_window_category_long.csv
+	A long-format GDELT dataset, organized by country, time window, and event category.
+
+	Represents
+		Disaggregated geopolitical activity, suitable for analysis and inspection.
+		The most interpretable GDELT representation.
+
+	Feature Engineering
+		Grouped GDELT events by:
+			country
+			time window
+			event category (e.g. conflict, cooperation, policy-related)
+		Preserved category-level detail without aggregation to wide form.
+
+3. gdelt_country_window_wide_hybridwindows_base.csv
+	A wide-format GDELT feature table capturing baseline geopolitical activity levels.
+
+	Represents
+		Structural geopolitical context, such as:
+			average conflict exposure
+			long-run cooperation intensity.
+
+	Feature Engineering
+		Aggregated event counts and tone measures per country and window.
+		Converted long-format category data into a wide feature matrix.
+		Excluded volatility or change-based metrics.
+
+
+4. gdelt_country_window_wide_hybridwindows_volatility.csv
+	A wide-format GDELT volatility feature table, complementary to the base version.
+
+	Represents
+		Geopolitical instability and shock sensitivity.
+		Temporal variability rather than absolute levels.
+
+	Feature Engineering
+		Computed change-based and dispersion metrics, including:
+			first differences
+			rolling standard deviations
+			relative changes in event intensity and tone.
+		Structured features in wide format for model ingestion.
+
+

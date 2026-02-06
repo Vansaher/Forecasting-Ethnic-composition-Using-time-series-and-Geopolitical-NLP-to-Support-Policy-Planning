@@ -1,0 +1,51 @@
+Feature-Engineering Outputs
+1. engineered_ethnic_composition_full.csv
+	A temporally expanded and harmonized ethnic composition dataset, derived from cleaned UN/census data.
+
+	Represents
+		A historical ethnic composition panel, still grounded in observed data but made model-ready through 			interpolation.
+		The primary target variable source for forecasting (ethnic shares).
+
+	Feature Engineering
+		Interpolated ethnic shares across missing years to form a continuous time series.
+		Aligned ethnic composition to a common time axis (e.g. 2000–2024).
+		Ensured consistent ethnic group coverage per country.
+		Standardized country and ethnic identifiers.
+
+2. ims_destination_features.csv
+	An engineered migration feature table describing destination-country migration characteristics.
+
+	Represents
+		Pull-side structural migration features.
+		Long-run migration attractiveness or exposure of destination countries.
+
+	Feature Engineering
+		Aggregated IMS migrant stock by destination country.
+		Derived destination-side indicators (e.g. total migrant stock, growth trends, shares).
+		Standardized time intervals and country identifiers.
+
+3. ims_od_inflow_outflow_engineered.csv
+	An origin–destination (OD) migration feature table, engineered from IMS stock data.
+
+	Represents
+		Directional migration pressure between origin and destination countries.
+		Structural migration dynamics, not event-level movements.
+
+	Feature Engineering
+		Constructed origin–destination migration relationships.
+		Derived inflow and outflow proxies from stock changes.
+		Aggregated flows across consistent temporal windows.
+
+4. ims_origin_features.csv
+	An engineered migration feature table describing origin-country migration characteristics.
+
+	Represents
+		Push-side structural migration features.
+		Long-run emigration pressure from origin countries.
+
+	Feature Engineering
+		Aggregated IMS migrant stock by origin country.
+		Derived origin-side indicators (e.g. emigration intensity, growth, dispersion).
+		Standardized country identifiers and temporal structure.
+
+Saved to engineering
