@@ -37,4 +37,4 @@ Quick summary
 
 Author
 
-Mohammad Javan Samboeputra Herlambang (they)
+Mohammad Javan Samboeputra Herlambang
